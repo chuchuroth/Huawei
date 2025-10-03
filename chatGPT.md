@@ -10,7 +10,7 @@ Here’s a **coherent, interview-ready narrative** in a **spoken-language style*
 
 Good morning, and thank you very much for this opportunity. My name is Chuchu Xu. I’m an MSc Mechatronics graduate from the Karlsruhe Institute of Technology, and I’ve lived and worked in Germany for more than eight years. As of 2025, I’ve also become a German citizen, so I feel deeply rooted in Europe both personally and professionally.
 
-of course I am a technical person so my main role is engineer, and I have done tons of technical work, (... ) 
+of course I am a technical person so my main role is engineer, and I have done tons of technical work, (...项目介绍 ) 
 
 My career has always been at the intersection of German engineering precision and Chinese innovation speed. I like to describe myself as a *bridge-builder*—someone who can connect Europe’s vibrant tech ecosystem with Chinese or global R&D organizations. This comes from my background: I’ve worked in Sino-German joint ventures like FAWAY-HELLA, FLEX-Elektrowerkzeuge, and BHsense, where I often acted as both a cultural and technical translator. For example, at Hella I aligned German ISO 26262 standards with Chinese production requirements for the Audi A6 headlamp project. At FLEX, which is part of a Chinese group, I optimized DV/PV testing and even introduced AI-assisted validation, which cut failure rates by 15%.
 
