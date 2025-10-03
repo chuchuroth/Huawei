@@ -1,4 +1,4 @@
----
+
 
 Perfect 👍 — you already have a **rich set of points** that together form a compelling “story.” The challenge is to **connect the dots** so it flows like a natural, spoken self-introduction in an interview, while still touching on *all* your key messages: background, professional skills, entrepreneurial journey, Sino-German “bridge-builder,” technology scouting, trend analysis, geopolitical awareness, AI, and even German business etiquette/Wall Street perspective.
 
