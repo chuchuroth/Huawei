@@ -33,7 +33,7 @@ In summary: I bring deep German roots, a trilingual profile, proven experience i
 
 + I would work on immediately/ what idea I have NOW - 
 
-For my role, Huawei's potentials in EU-China bridges (e.g., via KIT networks) enable scouting high-value trends like L3 autonomy—delivering immediate roadmap value.
+For my role, Huawei's potentials in EU-China bridges (e.g., via KIT networks) enable scouting high-value trends like L3 autonomy—delivering immediate roadmap value. I would actively build strategy to approach the potential company and targeting particular personel to build business relationship.
 
 ---
 Great 👍 — here’s a **concise 5-minute version** of your self-introduction speech, tailored for first-round or HR screenings. It keeps your key points (background, Sino-German bridge-builder, entrepreneurial spirit, tech scouting, geopolitical awareness, Huawei’s advantages) but trims the details so it flows naturally within 4–5 minutes.
