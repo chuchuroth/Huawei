@@ -28,7 +28,8 @@ Finally, I’m someone who understands both the German way of doing business—s
 
 In summary: I bring deep German roots, a trilingual profile, proven experience in Sino-German collaborations, an entrepreneurial mindset, and strong skills in technology scouting, trend analysis, and communication. I’m confident I can contribute to Huawei’s Automotive Engineering Lab by scouting high-potential technologies, conducting reality checks, and building the right partnerships to strengthen Huawei’s position in Europe’s automotive ICT ecosystem.
 
-+ I would work on immediately/ what idea I have NOW
++ I would work on immediately/ what idea I have NOW - 
+
 For my role, Huawei's potentials in EU-China bridges (e.g., via KIT networks) enable scouting high-value trends like L3 autonomy—delivering immediate roadmap value.
 
 ---
