@@ -12,3 +12,4 @@
 (i am just a regular chinese, I don't have rich parents, I don't have an uncle who works for the party at high rank, i am not in that circle )
 
 * 说实话，如果去掉杀猪盘最后骗钱那一步，那就是非常完美的公关和销售策略，人与人的信任感本就需要时间和耐心慢慢建立
+* 为什么我想做这个工作？因为我觉得我有潜力成为公共关系和资源整合scouting方面的专家，并且发挥我的创造力给xx公司创造独一无二的价值，我们处于ai时代，很多能力比如计算能力、信息搜集等方面都逐渐被ai超越，独属于人类且不会被ai取代的能力就是共情力和同理心这些，因此我觉得这份工作对我有额外的吸引力。
