@@ -17,8 +17,9 @@ This question tests your genuine interest, alignment with Huawei's mission, and 
 
 This keeps you memorable as a strategic, culturally attuned fit. Good luck!
 
----
 
+
+---
 
 ### Concise Interview Prep: Self-Introduction & Key Points for Technology Planning Expert Role at Huawei AEL
 
@@ -180,6 +181,29 @@ In summary, my technical depth, expansive network, and strategic mindset positio
 
 
 ---
+---
+---
+
+
+### Huawei's Technical Advantages and Business Potential in the Automotive Industry (as of October 2025)
+
+Huawei's automotive division, through its Intelligent Automotive Solution (IAS) unit and Harmony Intelligent Mobility Alliance (HIMA), leverages its telecom heritage for full-stack innovations in smart EVs, positioning it as a key enabler for OEMs amid China's EV boom and global sustainability pushes. With annual R&D investments of ~US$1B, Huawei focuses on non-manufacturing "Huawei Inside" models, delivering over 1 million vehicles with its tech. This aligns with your mechatronics expertise (e.g., sensor validation at FLEX/Hella), offering scouting opportunities in ADAS and connectivity for AEL roadmaps.
+
+#### Technical Advantages
+Huawei excels in integrated, scalable solutions that enhance safety, autonomy, and user experience—reducing traffic fatalities by up to 94% via AI-driven systems and cutting emissions by 60% through efficient powertrains.
+- **Advanced Driver Assistance Systems (ADAS) & Autonomy**: Qiankun ADS 4 enables urban L2+ and highway L3 driving by late 2025, with full driverless passenger tech targeted for 2025; includes self-developed chips, LiDAR, cameras, and algorithms for high-precision mapping/5G vehicle-road collaboration. Over 28 models integrate this, powering features like intelligent chassis control.
+- **Connectivity & Smart Cabins**: HarmonyOS Cockpit (v5.0+) offers seamless IoT ecosystems with AR-HUD, biometric verification, and V2X for "third space" experiences; supports 15% transportation efficiency gains via DriveONE powertrains and smart charging networks launched in April 2025.
+- **Powertrain & Sensors**: DriveONE integrates electric motors, batteries, and LED systems for 950-mile range (e.g., AITO M9); full-stack self-development ensures zero-US-component ecosystems, rivaling Nvidia in AI computing.
+
+These give Huawei an edge in data-rich environments, collecting vast insights for iterative improvements.
+
+#### Business Potential
+Huawei's HIMA (with SAIC, BAIC, Chery, JAC, Seres) drives explosive growth: 500,000+ deliveries in 32 months, 10 models in 2025 (doubling to 17 in 2026), and AITO leading premium SUVs (800,000+ units sold, outselling Li Auto). Partnerships extend to Dongfeng (Voyah EVs), Audi/Nissan/Toyota (China models), unlocking China sales routes for legacy OEMs.
+- **Market Leadership**: Targets premium segments (>400,000 yuan), with Seres (AITO partner) achieving 28.9% gross margins and ~6B yuan profit in H1 2025—up from prior losses. Global expansion via exports and EU R&D (e.g., Munich) counters tariffs, projecting 1% of 20M autonomous vehicles by 2025.
+- **Profitability & Scalability**: Automotive arm eyes full profitability by 2025; five core solutions (HarmonyOS, ADS, DriveONE, etc.) empower OEM transformation, with 87% of HIMA sales from AITO. Risks like US scrutiny are offset by domestic dominance and data monetization.
+
+For your role, Huawei's potentials in EU-China bridges (e.g., via KIT networks) enable scouting high-value trends like L3 autonomy—delivering immediate roadmap value.
+
 ---
 
 ### Huawei's Geopolitical Position, Potentials, and Hidden Risks in the Automotive Industry (as of October 2025)
