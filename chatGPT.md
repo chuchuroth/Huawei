@@ -1,6 +1,4 @@
-* 你误会了一个事，contacts不一定指私人关系，你一个人哪来那么多私人关系，你领英上的contacts严格来说也算contacts，所以说你有数百个业内人士contacts完全没问题，（well if include my LinkedIn contacts then i have at least 100s, those who would respond to my E-Mail , 50, those who would call me back or give me a personal chat, about 10, people i would call friends like Professor who tutoring my master thesis, my ex boss, and colleagues who have once worked together for some projects, and friends of friends of friends , my Partner was a graduate from Stuttgart uni, so my alumni plus his, about 200 people, and their connections, it's a large Number)
-(i am just a regular chinese, I don't have rich parents, I don't have an uncle who works for the party at high rank, i am not in that circle )
-
+* 你误会了一个事，c
 
 
 Perfect 👍 — you already have a **rich set of points** that together form a compelling “story.” The challenge is to **connect the dots** so it flows like a natural, spoken self-introduction in an interview, while still touching on *all* your key messages: background, professional skills, entrepreneurial journey, Sino-German “bridge-builder,” technology scouting, trend analysis, geopolitical awareness, AI, and even German business etiquette/Wall Street perspective.
