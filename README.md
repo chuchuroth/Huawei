@@ -1,4 +1,8 @@
 # Huawei
 
+#### marketing
 
 + 找一家你喜欢的小公司，模仿他们的商业邮件风格
+
+
+#### scouting
