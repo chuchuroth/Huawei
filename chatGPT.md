@@ -1,4 +1,32 @@
+---
 
+Perfect 👍 — you already have a **rich set of points** that together form a compelling “story.” The challenge is to **connect the dots** so it flows like a natural, spoken self-introduction in an interview, while still touching on *all* your key messages: background, professional skills, entrepreneurial journey, Sino-German “bridge-builder,” technology scouting, trend analysis, geopolitical awareness, AI, and even German business etiquette/Wall Street perspective.
+
+Here’s a **coherent, interview-ready narrative** in a **spoken-language style** (not overly written), integrating everything you listed:
+
+---
+
+**Interview Self-Introduction (Full Story)**
+
+Good morning, and thank you very much for this opportunity. My name is Chuchu Xu. I’m an MSc Mechatronics graduate from the Karlsruhe Institute of Technology, and I’ve lived and worked in Germany for more than eight years. As of 2025, I’ve also become a German citizen, so I feel deeply rooted in Europe both personally and professionally.
+
+My career has always been at the intersection of German engineering precision and Chinese innovation speed. I like to describe myself as a *bridge-builder*—someone who can connect Europe’s vibrant tech ecosystem with Chinese or global R&D organizations. This comes from my background: I’ve worked in Sino-German joint ventures like FAWAY-HELLA, FLEX-Elektrowerkzeuge, and BHsense, where I often acted as both a cultural and technical translator. For example, at Hella I aligned German ISO 26262 standards with Chinese production requirements for the Audi A6 headlamp project. At FLEX, which is part of a Chinese group, I optimized DV/PV testing and even introduced AI-assisted validation, which cut failure rates by 15%.
+
+Alongside my corporate roles, I also co-founded a small start-up in Backnang. We focused on circuit board design, EMI testing, and developed prototypes such as an automated greenhouse and a camshaft test bench. It wasn’t a big commercial success, but it was a great learning journey that gave me valuable experience in taking full ownership of projects, managing resources, and building solutions from concept to prototype. It also showed me clearly that I thrive most in structured environments with strong resources, professional teams, and long-term product goals—which is why I’m eager to join an innovative and established company like Huawei.
+
+Another strength I bring is **technology scouting and network building**. Over the past years, I’ve built a network of more than 50 contacts in Germany—professors at KIT, engineers at Bosch and Siemens affiliates, and founders of Stuttgart-based startups. I use a multi-channel approach: online platforms like Crunchbase, offline engagement at fairs like IAA Mobility and VDI congresses, and of course my alumni network for warm introductions. A concrete example: at FLEX, I connected our R&D team with a Stuttgart sensor startup, which led to a pilot project that boosted our testing efficiency by 20%. I organized management visits, handled IP discussions, and structured the collaboration. I also like to attend tech talks—sometimes a CEO’s talk tells you more about a company’s direction than any PowerPoint or business chart.
+
+I also have a passion for **trend analysis and feasibility “reality checks.”** Just as Wall Street analysts do due diligence on investments, I try to do technical and strategic due diligence on new technologies. At Poppe Mechatronik, I was tracking the EU Battery Regulation and noticed a trend in using AI for validation. I ran a feasibility study in MATLAB and Python that showed a potential 15% reduction in failure rates, which directly influenced our roadmap. At FLEX, I did something similar for sensor longevity testing, which helped shape a three-year plan. I see this skill as directly relevant to technology planning at Huawei—because it’s not just about spotting exciting technologies, it’s about asking: are they feasible, scalable, and compliant?  My criteria for evaluating a company’s growth potential are: technology, data, and innovation.
+
+Of course, feasibility is not only technical. It’s also geopolitical. And I understand Huawei’s position very well. It is both a national champion driving Chinese tech self-reliance and a company under intense Western scrutiny. I’ve personally experienced political barriers: earlier this year, I passed the interview and was offered a position at Esslingen University’s regelungtechnik lab, but due to Germany’s export control policy linked to my undergraduate university, which is in the sanction list, so they retrieve the offer. Which is actually against the german law of anti-discrimination. That decision was purely political, not about my competence, but it gave me first-hand awareness of how non-technical risks can affect careers and companies. That perspective allows me to anticipate issues like export controls, GDPR changes for connected cars, or certification delays, and propose strategies to navigate them.
+
+I should also mention communication. I see one of my strengths as **structural communication and information integration**. I use AI tools to help me summarize, structure, and integrate information across projects, and I strongly prefer employers who embrace AI in their business processes. For me, Huawei’s commitment to AI, HarmonyOS, and smart mobility is a big motivation to join.
+
+Finally, I’m someone who understands both the German way of doing business—structured, punctual, direct, formal—and the Chinese pace of innovation. I believe this dual perspective is essential for a company like Huawei to succeed in Europe.
+
+In summary: I bring deep German roots, a trilingual profile, proven experience in Sino-German collaborations, an entrepreneurial mindset, and strong skills in technology scouting, trend analysis, and communication. I’m confident I can contribute to Huawei’s Automotive Engineering Lab by scouting high-potential technologies, conducting reality checks, and building the right partnerships to strengthen Huawei’s position in Europe’s automotive ICT ecosystem.
+
+---
 
 **Self-Introduction (Interview Monologue)**
 
@@ -52,35 +80,7 @@ I’m very excited about this opportunity and would be glad to discuss how I mig
 
 
 
----
 
-Perfect 👍 — you already have a **rich set of points** that together form a compelling “story.” The challenge is to **connect the dots** so it flows like a natural, spoken self-introduction in an interview, while still touching on *all* your key messages: background, professional skills, entrepreneurial journey, Sino-German “bridge-builder,” technology scouting, trend analysis, geopolitical awareness, AI, and even German business etiquette/Wall Street perspective.
-
-Here’s a **coherent, interview-ready narrative** in a **spoken-language style** (not overly written), integrating everything you listed:
-
----
-
-**Interview Self-Introduction (Full Story)**
-
-Good morning, and thank you very much for this opportunity. My name is Chuchu Xu. I’m an MSc Mechatronics graduate from the Karlsruhe Institute of Technology, and I’ve lived and worked in Germany for more than eight years. As of 2025, I’ve also become a German citizen, so I feel deeply rooted in Europe both personally and professionally.
-
-My career has always been at the intersection of German engineering precision and Chinese innovation speed. I like to describe myself as a *bridge-builder*—someone who can connect Europe’s vibrant tech ecosystem with Chinese or global R&D organizations. This comes from my background: I’ve worked in Sino-German joint ventures like FAWAY-HELLA, FLEX-Elektrowerkzeuge, and BHsense, where I often acted as both a cultural and technical translator. For example, at Hella I aligned German ISO 26262 standards with Chinese production requirements for the Audi A6 headlamp project. At FLEX, which is part of a Chinese group, I optimized DV/PV testing and even introduced AI-assisted validation, which cut failure rates by 15%.
-
-Alongside my corporate roles, I also co-founded a small start-up in Backnang. We focused on circuit board design, EMI testing, and developed prototypes such as an automated greenhouse and a camshaft test bench. It wasn’t a big commercial success, but it was a great learning journey that gave me valuable experience in taking full ownership of projects, managing resources, and building solutions from concept to prototype. It also showed me clearly that I thrive most in structured environments with strong resources, professional teams, and long-term product goals—which is why I’m eager to join an innovative and established company like Huawei.
-
-Another strength I bring is **technology scouting and network building**. Over the past years, I’ve built a network of more than 50 contacts in Germany—professors at KIT, engineers at Bosch and Siemens affiliates, and founders of Stuttgart-based startups. I use a multi-channel approach: online platforms like Crunchbase, offline engagement at fairs like IAA Mobility and VDI congresses, and of course my alumni network for warm introductions. A concrete example: at FLEX, I connected our R&D team with a Stuttgart sensor startup, which led to a pilot project that boosted our testing efficiency by 20%. I organized management visits, handled IP discussions, and structured the collaboration. I also like to attend tech talks—sometimes a CEO’s talk tells you more about a company’s direction than any PowerPoint or business chart.
-
-I also have a passion for **trend analysis and feasibility “reality checks.”** Just as Wall Street analysts do due diligence on investments, I try to do technical and strategic due diligence on new technologies. At Poppe Mechatronik, I was tracking the EU Battery Regulation and noticed a trend in using AI for validation. I ran a feasibility study in MATLAB and Python that showed a potential 15% reduction in failure rates, which directly influenced our roadmap. At FLEX, I did something similar for sensor longevity testing, which helped shape a three-year plan. I see this skill as directly relevant to technology planning at Huawei—because it’s not just about spotting exciting technologies, it’s about asking: are they feasible, scalable, and compliant?  My criteria for evaluating a company’s growth potential are: technology, data, and innovation.
-
-Of course, feasibility is not only technical. It’s also geopolitical. And I understand Huawei’s position very well. It is both a national champion driving Chinese tech self-reliance and a company under intense Western scrutiny. I’ve personally experienced political barriers: earlier this year, I passed the interview and was offered a position at Esslingen University’s regelungtechnik lab, but due to Germany’s export control policy linked to my undergraduate university, they retrieve the offer. Which is actually against the german law of anti-discrimination. That decision was purely political, not about my competence, but it gave me first-hand awareness of how non-technical risks can affect careers and companies. That perspective allows me to anticipate issues like export controls, GDPR changes for connected cars, or certification delays, and propose strategies to navigate them.
-
-I should also mention communication. I see one of my strengths as **structural communication and information integration**. I use AI tools to help me summarize, structure, and integrate information across projects, and I strongly prefer employers who embrace AI in their business processes. For me, Huawei’s commitment to AI, HarmonyOS, and smart mobility is a big motivation to join.
-
-Finally, I’m someone who understands both the German way of doing business—structured, punctual, direct, formal—and the Chinese pace of innovation. I believe this dual perspective is essential for a company like Huawei to succeed in Europe.
-
-In summary: I bring deep German roots, a trilingual profile, proven experience in Sino-German collaborations, an entrepreneurial mindset, and strong skills in technology scouting, trend analysis, and communication. I’m confident I can contribute to Huawei’s Automotive Engineering Lab by scouting high-potential technologies, conducting reality checks, and building the right partnerships to strengthen Huawei’s position in Europe’s automotive ICT ecosystem.
-
----
 
 👉 This version ties your **personal story + career narrative + technical skills + entrepreneurial journey + geopolitical awareness + AI enthusiasm** into a **single coherent story**, while keeping it in **spoken-language style** for an interview.
 
