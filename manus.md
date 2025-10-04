@@ -226,13 +226,13 @@ An alumni network, such as the one from KIT, represents a potent resource for te
 
 + 9.	Utilizing Alumni Directories and Career Services: Leveraging alumni directories and career services specifically designed for sector-specific connections can aid in identifying alumni employed at target tech companies or within relevant fields [1].
 
-### The Power of Alumni Networks
+**The Power of Alumni Networks**
 
 Alumni networks are particularly effective social networks due to the shared experiences of academic rigor and personal growth. This shared history fosters a profound sense of trust and recognition, which is highly advantageous in career development and recruitment processes. The investment in education continues to yield returns through this robust network for decades post-graduation [1, 5].
 
 Alumni serve as a crucial bridge between academic environments and the commercial sector, imparting practical knowledge and business insights that align with industry standards. They can share invaluable lessons learned, potential pitfalls to circumvent, and successful strategies often not found in academic texts or classrooms [1].
 
-**Part 2: Best Practices for Building Contacts with University Faculty and Business Professionals (with a Focus on German Context)**
+### Part 2: Best Practices for Building Contacts with University Faculty and Business Professionals (with a Focus on German Context)
 
 Building meaningful professional contacts, particularly with university faculty and business professionals in Germany, necessitates a nuanced approach that respects local cultural norms and prioritizes professionalism, clarity, and the cultivation of long-term relationships.
 
@@ -248,7 +248,7 @@ Building meaningful professional contacts, particularly with university faculty 
 
 + 5.	Be Prepared and Professional: Always maintain a professional demeanor, whether in written correspondence or in-person meetings. This includes adhering to punctuality, dressing appropriately, and possessing a comprehensive understanding of your subject matter.
 
-### Specific Considerations for the German Context
+**Specific Considerations for the German Context**
 
 When establishing contacts in Germany, it is imperative to integrate the fundamental principles of German business culture into your networking strategy:
 
@@ -268,7 +268,7 @@ When establishing contacts in Germany, it is imperative to integrate the fundame
 
 +	Attend Relevant Events: Participate in academic conferences, industry trade shows (Messen), and university-organized events (e.g., guest lectures, research days). These venues provide natural settings for meeting faculty and professionals within a structured environment. Be prepared with a concise self-introduction and a clear understanding of your objectives.
 
-### Initial Outreach (Email Example)
+#### Initial Outreach (Email Example)
 
 When drafting an initial email to a professor or business professional, consider the following structure:
 
