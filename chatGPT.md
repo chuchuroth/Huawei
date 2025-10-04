@@ -29,9 +29,15 @@ Finally, I’m someone who understands both the German way of doing business—s
 
 In summary: I bring deep German roots, a trilingual profile, proven experience in Sino-German collaborations, an entrepreneurial mindset, and strong skills in technology scouting, trend analysis, and communication. I’m confident I can contribute to Huawei’s Automotive Engineering Lab by scouting high-potential technologies, conducting reality checks, and building the right partnerships to strengthen Huawei’s position in Europe’s automotive ICT ecosystem.
 
++ I am interested in this role because
+
+I am confident in my potential to become an expert in public relations and resource integration scouting. I am eager to apply my creativity to contribute distinctive value to your company. In the current era of artificial intelligence, many capabilities such as data processing and information gathering are increasingly being outperformed by AI. However, I believe that uniquely human qualities—particularly empathy and the ability to understand others—remain irreplaceable. For this reason, I find this position especially appealing, as it offers the opportunity to leverage these strengths in a meaningful way.
+
 + I would work on immediately/ what idea I have NOW - 
 
 For my role, Huawei's potentials in EU-China bridges (e.g., via KIT networks) enable scouting high-value trends like L3 autonomy—delivering immediate roadmap value. I would actively build strategy to approach the potential company and targeting particular personel to build business relationship.
+
+
 
 ---
 Great 👍 — here’s a **concise 5-minute version** of your self-introduction speech, tailored for first-round or HR screenings. It keeps your key points (background, Sino-German bridge-builder, entrepreneurial spirit, tech scouting, geopolitical awareness, Huawei’s advantages) but trims the details so it flows naturally within 4–5 minutes.
