@@ -18,9 +18,9 @@ Of course, feasibility is not only technical. It’s also geopolitical. I’ve p
 
 so every chinese definately know huawei, and what I know about Huawei is its **unique strengths**, it's a technology leading company in lots of aspects, it has massive R&D investment — nearly 21% of revenue in 2024; over 240,000 patents, global leadership in 5G; and an automotive business that grew fourfold last year. The **ADS Qiankun system** is already deployed in over 22 production models, and the **HarmonyOS cockpit** combined with 5G-V2X gives Huawei an ecosystem advantage that few others can match. I see Huawei as a true orchestrator in the automotive value chain, not just a Tier 1 supplier.  if I were to take this role at your lab, I would start to actively build strategy to approach the potential company and targeting particular personel to build business relationship. From my perspective, Huawei's potentials in europe-China links promises scouting high-value trends like L3 autonomy, which has immediate roadmap value.
 
-so I think I fit into this role because it aligns with my skills: scouting emerging technologies, analyzing trends, and building strategic cooperations. Maybe I need a bit time to become an expert in this, public relations and resource integration,  scouting. but I believe I have unique qualities, In the current time of artificial intelligence, many skills like data processing and information searching are being outperformed by AI, but some remain irreplaceable, like creativity and particularly empathy and the ability to understand and connect with other people, and instinct, which I believe is crucial for the “reality checks” in technology planning. The common practice is to first work coloborateviely for soem projects, then move to joint venture.............
+so I think I fit into this role because it aligns with my skills: scouting emerging technologies, analyzing trends, and building strategic cooperations. Maybe I need a bit time to become an expert in this, public relations and resource integration,  scouting. but I believe I have unique qualities, In the current time of artificial intelligence, many skills like data processing and information searching are being outperformed by AI, but some remain irreplaceable, like creativity and particularly empathy and the ability to understand and connect with other people, and instinct, which I believe is crucial for the “reality checks” in technology planning. ....... The common practice is to first work coloborateviely for soem projects, then move to joint venture.............
 
-so, to sum up, I have dual perspective, I understand both the German way of doing business and the Chinese way. I have substantial Sino-German project experience and a german network, and also technical expertise in mechatronics, and I believe I can contribute to your team, in tasks like scouting high-potential technologies, conducting feasibility checks, building the right partnerships with European partners, building innovative and resilient roadmap, and to strengthen Huawei’s position in Europe. and I would like to apply these skills and my engineering expertise in a structured and meaningful way, so to join Huawei is very much the right way, I get to combine my own growth and coincide with the long-term goals of an innovative and well established company. this is quite exciting.
+so, to sum up, I have dual perspective, I understand both the German way of doing business and the Chinese way. I have substantial Sino-German project experience and a german network, and also technical expertise in mechatronics, and I believe I can contribute to your team, in tasks like scouting high-potential technologies, conducting feasibility checks, building the right partnerships with European companies, building innovative and resilient roadmap, and to strengthen Huawei’s position in Europe. and I would like to apply these skills and my engineering expertise in a structured and meaningful way, so to join Huawei is very much the right way, I get to combine my own growth and coincide with the long-term goals of an innovative and well established company. this is quite exciting.
 
 
 
@@ -31,6 +31,9 @@ so, to sum up, I have dual perspective, I understand both the German way of doin
 
 
  
+---
+---
+---
 ---
 ---
 ---
