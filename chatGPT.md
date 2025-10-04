@@ -4,7 +4,7 @@
 
 **Interview Self-Introduction (Full Story)**
 
-Good morning, and thank you very much for this opportunity. My name is Chuchu Xu. I’m an MSc Mechatronics graduate from the Karlsruhe Institute of Technology, and I’ve lived and worked in Germany for more than eight years. As of 2025, I’ve also become a German citizen, so I feel deeply rooted in Europe both personally and professionally.
+so I’ve lived and worked in Germany for more than eight years. As of 2025, I’ve also become a German citizen, so I feel deeply rooted in Europe both personally and professionally.
 
 of course I am a technical person so my main role is engineer, and I have done tons of technical work, (...项目介绍 ) 
 
