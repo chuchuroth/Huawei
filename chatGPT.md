@@ -4,42 +4,105 @@
 
 **Interview Self-Introduction (Full Story)**
 
-so I’ve lived and worked in Germany for more than eight years. As of 2025, I’ve also become a German citizen, so I feel deeply rooted in Europe both personally and professionally.
+so I’ve lived and worked in Germany for eight years now, studied at Karlsruhe and worked at FLEX, and yeah, I feel like I am rooted in germany both personally and professionally. before I came to germany I have worked in China for four years, at Hella and at FAW; I have started my career early on and mostly in the environment of Sino-German joint venture kind of company, in a international team with mixed culture, either it's a german company with chinese ties or chinese company with german ties. So I am used to connect german engineering methodologies with precision and tech ecosystem with Chinese organization mindset and supply chain and rapid speed of innovation. At FLEX, for example, I have independently managed and steered international projects end-to-end, build consensus among diverse stakeholders, and keep projects on track. A concrete example would be, I was in charge of the lawn mower robot project, and I have done my own research and connected with a startup in stuttgart, who agrees to offer their navigation module to be embedded into our lawm mower robot, I organized management visits, handled quotation and technical discussions, and structured the whole collaboration. And another example while I was tracking the Battery Regulation in europe and noticed a trend in china in using AI for validation. so I ran feasibility study and offer solutions to my chinese colleagues to reduce failure rates and keep compliant. and I utilized my alumni connections to link our R&D team with university labotory to do some advanced tests. so I always call myself as a *bridge-builder* because I often acted as a cultural and technical translator, I’d describe this skill as structural communication and information integration, which probably align with this position, I think I am capable of connecting Europe’s tech ecosystem with Huawei’s cutting-edge technology.
+
+another skills I have built over the years Through my studies and professional roles, no less as a hobby, to put in a formal pharse is the so-called **technology scouting and network building**, so if you go to places you meet people right, and I believe people are the best assets. I’ve cultivated some contacts and maintained in more or less a personal relationship, like the professor who tutored my master thesis, whom I still write to once in a while, talking about the new trends of technology, and my old boss and colleagues, some I call friends. So if you count my alumni from university and linkedIn connections then I have a networks with 2/300 people. they are not my close friends but I am sure if I write emails or call in a polite way half of them would respond. I would immediately leverage this network for scouting and possible management visits.
+
+at the moment together with my boyfriend we have set up a small start-up workshop in Backnang, and we also like to seek other Entrepreneurs, mostly Stuttgart-based, offline we like to engage at trade fairs like IAA Mobility in münchen and VDI congresses, we do research in online platforms like Crunchbase for other startups, I also like to attend tech-talks—sometimes when a CEO gives a talk, it’s more informative than any business chart. It's all very interesting. 
+
+Although the business side is not very exciting, it's more of a learning journey than a commercial success, but there is so much to learn from a failure not less than success. it gave me valuable experience: taking full ownership of projects, managing  resources, building connections, and developing solutions from concept to prototype. we have many **3D printers** in house; we built an **industrial 3D printer** by ourselves which can print large parts like furniture. and we set up a small **electrical laboratory** and acquired some lab equipment, like **spectrum analyzer** and **oscilloscope** **signal generator** **power station**, a **CNC machine**, and a **soldering station** we can carry out basic **measurements and do analyses on sensors and actuators**, like **electromagnetic interference tests**, and PCB design and 3D construction, and build prototypes like an automated greenhouse and a camshaft test bench.
+
+another thing of mine, much like a hobby is tracking business news, regulations, and geopolitical shifts. like what's new in business world, what happens recently in syllicon vally, any coperate takeovers, I also have a personal interest for, to quote from the job description, **trend analysis and feasibility “reality checks.”**  I have my own sets of criteria for evaluating a company’s growth potential: technology, data, and innovation. Just as Wall Street analysts do due diligence on investments, I do my own technical and strategic due diligence on new technologies. because it’s not just about spotting exciting technologies, it’s more about asking: are they feasible, scalable, and compliant? and I also have adopted AI tools in my daily workflow and make information flows faster. In my opinion one of the criterias to evaluate a company is to see if they integrate AI models into their internal systems and business processes, and Huawei is a clear **frontrunner** here.
+
+Of course, feasibility is not only technical. It’s also geopolitical. I’ve personally experienced political barrier recently: last month, I was offered a position at Hochschule Esslingen at their regelungtechnik lab and I am supposed to start from october, but due to Germany’s export control policy linked to my undergraduate university in china, which is in the sanction list, they retrieve the offer last minute and I was told I am not allowed to work for any german university or hochschule. Which is kind of against the german law of anti-discrimination. I started the legal process but is dead end. That was purely political, nothing about my competence, but it gave me first-hand awareness of how non-technical risks can affect one's career and in some cases companies too. so I understand Huawei’s position very well. It is both a national champion driving Chinese tech self-reliance and a company operates under intense Western **scrutiny**. so we need to take this unique perspective and indentify political risk early on develop strategies to naigate them smartly so that our roadmaps are both innovative and resilient, and always keep an eye on issues like export controls, GDPR changes, semiconductor export controls, or EU certification processes.
+
+so every chinese definately know huawei, and what I know about Huawei is its **unique strengths**, it's a technology leading company in lots of aspects, it has massive R&D investment — nearly 21% of revenue in 2024; over 240,000 patents, global leadership in 5G; and an automotive business that grew fourfold last year. The **ADS Qiankun system** is already deployed in over 22 production models, and the **HarmonyOS cockpit** combined with 5G-V2X gives Huawei an ecosystem advantage that few others can match. I see Huawei as a true orchestrator in the automotive value chain, not just a Tier 1 supplier.  if I were to take this role at your lab, I would start to actively build strategy to approach the potential company and targeting particular personel to build business relationship. From my perspective, Huawei's potentials in europe-China links promises scouting high-value trends like L3 autonomy, which has immediate roadmap value.
+
+so I think I fit into this role because it aligns with my skills: scouting emerging technologies, analyzing trends, and building strategic cooperations. Maybe I need a bit time to become an expert in this, public relations and resource integration,  scouting. but I believe I have unique qualities, In the current time of artificial intelligence, many skills like data processing and information searching are being outperformed by AI, but some remain irreplaceable, like creativity and particularly empathy and the ability to understand and connect with other people, and instinct, which I believe is crucial for the “reality checks” in technology planning. The common practice is to first work coloborateviely for soem projects, then move to joint venture.............
+
+so, to sum up, I have dual perspective, I understand both the German way of doing business and the Chinese way. I have substantial Sino-German project experience and a german network, and also technical expertise in mechatronics, and I believe I can contribute to your team, in tasks like scouting high-potential technologies, conducting feasibility checks, building the right partnerships with European partners, building innovative and resilient roadmap, and to strengthen Huawei’s position in Europe. and I would like to apply these skills and my engineering expertise in a structured and meaningful way, so to join Huawei is very much the right way, I get to combine my own growth and coincide with the long-term goals of an innovative and well established company. this is quite exciting.
+
+
+
+
+
+
+
+
+
+ 
+---
+---
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*  while at FLEX I optimized DV/PV testing and introduced AI-assisted validation that cut failure rates by 15%.
+For example, at Hella I aligned German ISO 26262 standards with Chinese production requirements for the Audi A6 headlamp project. At FLEX, which is part of a Chinese group, I optimized DV/PV testing and even introduced AI-assisted validation, which cut failure rates by 15%.
 
 of course I am a technical person so my main role is engineer, and I have done tons of technical work, (...项目介绍 ) 
 
-My career has always been at the intersection of German engineering precision and Chinese innovation speed. I like to describe myself as a *bridge-builder*—someone who can connect Europe’s vibrant tech ecosystem with Chinese or global R&D organizations. This comes from my background: I’ve worked in Sino-German joint ventures like FAWAY-HELLA, FLEX-Elektrowerkzeuge, and BHsense, where I often acted as both a cultural and technical translator. For example, at Hella I aligned German ISO 26262 standards with Chinese production requirements for the Audi A6 headlamp project. At FLEX, which is part of a Chinese group, I optimized DV/PV testing and even introduced AI-assisted validation, which cut failure rates by 15%.
-
-Alongside my corporate roles, I also co-founded a small start-up in Backnang. We focused on circuit board design, EMI testing, and developed prototypes such as an automated greenhouse and a camshaft test bench. It wasn’t a big commercial success, but it was a great learning journey that gave me valuable experience in taking full ownership of projects, managing resources, and building solutions from concept to prototype. It also showed me clearly that I thrive most in structured environments with strong resources, professional teams, and long-term product goals—which is why I’m eager to join an innovative and established company like Huawei.
-
-Another skill no less as a personal hobby I bring is **technology scouting and network building**. Over the past years, I’ve built a network of more than 50 contacts in Germany—professors at KIT, engineers at Bosch and Siemens affiliates, and founders of Stuttgart-based startups. I use a multi-channel approach: online platforms like Crunchbase, offline engagement at fairs like IAA Mobility and VDI congresses, and of course my alumni network for warm introductions. A concrete example: at FLEX, I connected our R&D team with a Stuttgart sensor startup, which led to a pilot project that boosted our testing efficiency by 20%. I organized management visits, handled IP discussions, and structured the collaboration. I also like to attend tech talks—sometimes a CEO’s talk tells you more about a company’s direction than any PowerPoint or business chart.
-
-A habit of mine is tracking business news, regulations, and geopolitical shifts. like what happens recently in syllicon vally, any coperate takeovers, there is tons of intereting stories in business world, there is a lot to learn from a success story as well as failed ones.  I also have a personal interest for **trend analysis and feasibility “reality checks.”**  I have my own criteria for evaluating a company’s growth potential are: technology, data, and innovation. Just as Wall Street analysts do due diligence on investments, I try to do technical and strategic due diligence on new technologies. At Poppe Mechatronik, I was tracking the EU Battery Regulation and noticed a trend in using AI for validation. I ran a feasibility study in MATLAB and Python that showed a potential 15% reduction in failure rates, which directly influenced our roadmap. At FLEX, I did something similar for sensor longevity testing, which helped shape a three-year plan. I see this skill as directly relevant to technology planning at Huawei—because it’s not just about spotting exciting technologies, it’s about asking: are they feasible, scalable, and compliant? 
-
-Of course, feasibility is not only technical. It’s also geopolitical. And I understand Huawei’s position very well. It is both a national champion driving Chinese tech self-reliance and a company under intense Western scrutiny. I’ve personally experienced political barriers: last month, I passed the interview and was offered a position at Esslingen University’s regelungtechnik lab, but due to Germany’s export control policy linked to my undergraduate university in china, which is in the sanction list, so they retrieve the offer and I am not allowed to work for any german college because of my bacholer university in china. Which is actually against the german law of anti-discrimination. I started the legal process but is dead end. That decision was purely political, not about my competence, but it gave me first-hand awareness of how non-technical risks can affect careers and companies. That perspective allows me to anticipate issues like export controls, GDPR changes for connected cars, or certification delays, and propose strategies to navigate them. How important politics are and how to navigate them smartly.
-
-I should also mention communication. I have my own way of work, usually when I'm dealing with a topic, I would firstly collect as much as information on the topic, and integrate them into my point of view, then I would form my auguments in a structural way to communicate effectively. This sort of skill is built through the years, from real life experince. I use AI tools to help me summarize, structure, and integrate information across projects, and I strongly prefer employers who embrace AI in their business processes. For me, Huawei’s commitment to AI, HarmonyOS, and smart mobility is a big motivation to join.
-
-Finally, I’m someone who understands both the German way of doing business—structured, punctual, direct, formal—and the Chinese pace of innovation. I believe this dual perspective is essential for a company like Huawei to succeed in Europe.
-
----
-
-In summary: I bring deep German roots, a trilingual profile, proven experience in Sino-German collaborations, an entrepreneurial mindset, and strong skills in technology scouting, trend analysis, and communication. I’m confident I can contribute to Huawei’s Automotive Engineering Lab by scouting high-potential technologies, conducting reality checks, and building the right partnerships to strengthen Huawei’s position in Europe’s automotive ICT ecosystem.
-
-In short, I bring deep German roots, a trilingual profile, and proven Sino-German collaboration experience. I’m confident I can contribute by scouting technologies, conducting feasibility checks, and building the right partnerships to strengthen Huawei’s position in Europe. And I’d be very glad to discuss how I could apply these strengths to one of your current challenges.
+ our topics are very broad, mechatronics, sensortechnik dataanalyse processoptimization ..  We focused on circuit board design, EMI testing, and developed prototypes such as an automated greenhouse and a camshaft test bench. It wasn’t a big commercial success, but it was a great learning journey that gave me valuable experience in taking full ownership of projects, managing resources, and building solutions from concept to prototype.
 
 
-“In summary, my unique background, my German network, and my Sino-German project experience put me in a strong position to help Huawei’s Automotive Engineering Lab. I’m excited to contribute by scouting high-potential technologies, building bridges with European partners, and ensuring roadmaps that are both innovative and resilient.
-
-In summary, my technical expertise in mechatronics, my established network in the German tech ecosystem, and my unique background in Sino-German collaborations position me to add immediate value to the Automotive Engineering Lab. I’m confident in my ability to scout technologies, conduct feasibility checks, and build strategic partnerships to advance Huawei’s automotive ICT solutions.
 
 
+
+3. I also develop **test stations** for **mechatronic systems**. For example, we once received an order from HS Heilbronn, where I designed a test setup for a **DDS axle load sensor**, a **Hall-based** sensor capable of real-time measurement of **position and pressure**, specifically the axle load caused by the deformation of the suspension. Because these sensors can **provide inaccurate readings under extreme environmental conditions (e.g., temperature fluctuations from -20°C to +80°C)**, tests and **root-cause analyses** are necessary. I wrote MATLAB scripts for data analysis and developed an AI-powered validation tool to detect patterns in the data and make predictions.
+4. We also have a few other projects, such as **developing experimental setups and a test stand for measuring the surface profile of camshafts**, although this is mainly handled by my colleague.
+5. In parallel, I continue to work with ROS and am tinkering with robotic arms—a project I started at KIT.
+6. Occasionally, private customers visit and bring devices for repair; we conduct tests and repair electronics.
+
+
+
+1. At FLEX, I worked in development and participated in several products. I built a **prototype for an autonomous lawn mower**, mainly focusing on software.
+2. I spent a lot of time on **motor control**, which is also the most important aspect of designing **power tools**, such as **cordless random orbital sanders with variable speed control**. Basically, there are three types: the simplest has no feedback, meaning **PWM signals in open-loop control**, for example, **leaf blowers, chainsaws, or garden shears**—tools with **low accuracy requirements**.
+3. Then there are control methods with feedback signals, using a **hall sensor**, so it’s **closed-loop PWM torque and speed control**, which are used in tools with **higher accuracy requirements**, such as **drills, grinders, or polishers**.
+4. There’s also a more advanced method, namely **field-oriented control**, which is used in **autonomous lawn mowers**.
+5. I also perform many tests, like measuring **electrical power, mechanical power, vibration and noise, temperature, endurance, and reliability**. I conduct **FMEA analyses** and create the **technical documentation for CE certifications and prepare reports according to ISO standards**.
+6. I develop **test setups** as well; one concrete example was **validating a battery-powered sander**. It integrates **pressure and inductive hall sensors** to measure the **rotational speed of the motor**. During **heavy load**, **overheating** can occur, making the sensors **unreliable and unstable** and leading to **automatic shutdowns** of the power tool. Then, I run tests to find the **root cause**, whether it’s **dust buildup in the ventilation**, causing heat accumulation, or **PCB design errors** with heat-generating components (e.g., MOSFETs) placed too close to the sensor, causing thermal drift. To solve these problems, it is sometimes necessary to conduct **DV (Design Verification) and PV (Product Validation) tests**, create **test procedures**, and perform **data analysis using MATLAB and Python**. Here’s an example.
+7. During these test processes, I had the idea that parameters like **temperature, current, voltage, and rotational speed** are always collected manually. So, I came up with the idea of automatically collecting the data, which led to the **datalogger**—an interface between the battery and the machine. This tool can automatically record, evaluate, graphically display, and save the data for later analysis. The prototype can even be integrated into real products to collect actual working data. The concept is: with enough data, the motor control parameters can be further optimized.
+8. Additionally, I also contributed to some small projects, like **battery tests, EMC** evaluations, and supported **prototype manufacturing and certification with external laboratories**.
 
 ---
 
-+ I am interested in this role because
-+ because it perfectly aligns with my strengths: scouting emerging technologies, analyzing trends, and building strategic cooperations.
-+ I am confident in my potential to become an expert in public relations and resource integration scouting. I am eager to apply my creativity to contribute distinctive value to your company. In the current era of artificial intelligence, many capabilities such as data processing and information gathering are increasingly being outperformed by AI. However, I believe that uniquely human qualities—particularly empathy and the ability to understand others—remain irreplaceable. For this reason, I find this position especially appealing, as it offers the opportunity to leverage these strengths in a meaningful way.
+
+
+
+
+
+
+
+I should also mention communication. I have my own way of work, usually when I'm dealing with a topic, I would firstly collect as much as information on the topic, and integrate them into my point of view, then I would form my auguments in a structural way to communicate effectively. I use AI tools to help me summarize, structure, and integrate information across projects, and I strongly prefer employers who embrace AI in their business processes. For me, Huawei’s commitment to AI, HarmonyOS, and smart mobility is a big motivation to join.
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
 
 **Huawei’s Advantages and Why I’m Motivated**
 “What excites me about Huawei is its **technical and business strengths** that no other automotive newcomer can match. For example:
@@ -52,9 +115,8 @@ In summary, my technical expertise in mechatronics, my established network in th
 
 This scale, combined with the **asset-light Tier 1 model (“Huawei Inside”)**, is what sets Huawei apart from both Western startups and traditional OEMs. It’s not speculative technology — it’s already deployed at scale. That gives me confidence and motivation to contribute.”
 
-+ I would work on immediately/ what idea I have NOW - 
 
-For my role, Huawei's potentials in EU-China bridges (e.g., via KIT networks) enable scouting high-value trends like L3 autonomy—delivering immediate roadmap value. I would actively build strategy to approach the potential company and targeting particular personel to build business relationship.
+
 
 
 
@@ -63,76 +125,22 @@ Great 👍 — here’s a **concise 5-minute version** of your self-introduction
 
 ---
 
-## **Concise Interview Speech (5 min)**
-
-* I see myself as a *bridge-builder* between German engineering precision and Chinese innovation speed — someone who can connect Europe’s tech ecosystem with Huawei’s cutting-edge R&D.
-* Throughout my career, I’ve often been a *bridge-builder* between German engineering precision and Chinese innovation speed, especially in Sino-German joint ventures. I believe this unique background allows me to connect Europe’s vibrant tech ecosystem with Huawei’s R&D, adding immediate value to your team.
-* **Cultural Translation and Communication**
-“My career in Sino-German joint ventures has trained me as a **cultural and technical translator**. At FAWAY-HELLA, I aligned German ISO 26262 standards with Chinese production demands. At FLEX, I improved sensor testing by combining German methodologies with Chinese speed.
-
-I also place a lot of emphasis on **structural communication and information integration**. AI tools have become part of my workflow to make information flows clearer and faster. In fact, one of my personal criteria when evaluating employers is whether the company integrates AI into its internal processes — and Huawei is a clear frontrunner here.”
-
-* I’ve worked in Sino-German joint ventures like FAWAY-HELLA and FLEX-Elektrowerkzeuge, where I often acted as both a cultural and technical translator.
-* At Hella, I aligned ISO 26262 safety standards with Chinese production demands,
-*  while at FLEX I optimized DV/PV testing and introduced AI-assisted validation that cut failure rates by 15%.
-*  Alongside this, I co-founded a small start-up, where we developed prototypes like an automated greenhouse and a camshaft test bench. Although more of a learning journey than a commercial success, it gave me valuable experience in project ownership, resource management, and innovation.
-  
-**Entrepreneurial Experience**
-“After FLEX, I co-founded a start-up, Poppe Mechatronik. We built prototypes like an automated greenhouse and a camshaft test bench, focusing on sensor systems and EMI testing. While profits were limited, I gained **hands-on project ownership and resource management skills**. That experience taught me how to manage uncertainty and sharpened my entrepreneurial mindset. Now, I’m excited to apply that in a structured, well-resourced environment like Huawei.”
-
-**Entrepreneurial Experience and Technical Depth**
-
-After my time at Flex, I co-founded a small engineering start-up with a colleague. We focused on circuit board design, EMI testing, and test rig development, and we built prototypes such as an automated greenhouse and a camshaft test bench.
-
-While the business was more of a learning journey than a commercial success, it gave me invaluable experience: taking full ownership of projects, managing limited resources, and developing solutions from concept to prototype. It also clarified what motivates me. I thrive when applying my expertise in a structured environment with strong resources, professional teams, and long-term product goals. That’s why I’m looking to join an innovative and established company like Huawei—where I can combine my entrepreneurial mindset with stability and growth opportunities.
 
 
-**Sino-German Joint Venture and Communication Skills**
 
-What also sets me apart is my hands-on experience in Sino-German joint ventures like FAWAY-HELLA and FLEX. These roles taught me to act as a cultural and technical translator, balancing precise German standards like ISO 26262 with China’s rapid production demands.
-
-This experience trained me to steer complex international projects end-to-end, build consensus among diverse stakeholders, and keep projects on track. I’d describe one of my strengths as structural communication and information integration, which I’ve enhanced by adopting AI tools in my daily work. In fact, I value companies that integrate AI models into their internal systems and business processes—it’s one of my evaluation criteria for employers.
 
 ---
 
-+ One of my strongest assets is **technology scouting and network building**. Over the years, I’ve cultivated more than 50 contacts across Germany — professors, startups, and engineers from companies like Bosch and Siemens affiliates.
-+ I combine online tools like Crunchbase with offline activities such as IAA Mobility and alumni introductions.
-+ At FLEX, for example, I connected our R&D team with a Stuttgart sensor startup, which led to a pilot project improving testing efficiency by 20%.
-
-**Technology Scouting and Network Building**
-“One of my strongest assets is the **established network I’ve built in Germany** over the last eight years. Through my roles at FAWAY-HELLA, FLEX, and my KIT alumni network, I’ve cultivated over 50 contacts with startups, suppliers, and university professors. I use a multi-channel approach to scout technologies: online research, trade fairs like IAA Mobility, and direct introductions through alumni connections.
-
-For instance, at FLEX I matched our R&D team with a Stuttgart sensor startup, which led to a pilot project boosting test efficiency by 20%. I also find attending **tech-talks incredibly insightful** — sometimes a CEO’s talk reveals more about a company’s direction than any chart ever could.”
-
-**Technology Scouting and Network Building**
-
-One of my strongest assets is the network I’ve built over the past eight years in Germany. Through my studies at KIT and professional roles, I’ve cultivated more than 50 contacts with technology-leading companies, startups, and professors. I’m prepared to leverage this network immediately for scouting and management visits.
-
-For example, at FLEX, I used my alumni connections to link our R&D team with a Stuttgart-based sensor startup. This led to a pilot project that improved testing efficiency by 20%. I organized management visits, facilitated IP discussions, and co-developed an EU-compliant certification process. That’s the kind of bridge-building I would bring here—identifying promising partners and structuring collaborations that deliver results.
-
-To find opportunities, I combine online research on platforms like Crunchbase with offline engagement at fairs like IAA Mobility, and I use warm introductions through my personal network. I also like to attend tech-talks—sometimes when a CEO gives a talk, it’s more informative than any business chart.
 
 ---
 
-+ Another strength is **trend analysis and reality checks**. I track regulations, business news, and technology shifts to identify risks early.
-+ At Poppe Mechatronik, I spotted AI’s role in EU Battery Regulation compliance and proved with MATLAB and Python that we could cut failure rates by 15%.
-+ I also understand the **geopolitical challenges Huawei faces**. I personally experienced this when I was offered a position at Esslingen University but was unable to start due to Germany’s export control list. That was purely political, not competence-related, and it gave me valuable awareness of how non-technical risks can affect strategy.
 
-+ What excites me about Huawei is its **unique strengths**: massive R&D investment — nearly 21% of revenue in 2024; over 240,000 patents, including global leadership in 5G; and an automotive business that grew fourfold last year, becoming profitable for the first time. The **ADS Qiankun system** is already deployed in over 22 production models, and the **HarmonyOS cockpit** combined with 5G-V2X gives Huawei an ecosystem advantage that few others can match. I see Huawei as a true orchestrator in the automotive value chain, not just a Tier 1 supplier.
 
-**Trend Analysis and Geopolitical Awareness**
-“One of my passions is tracking business news, regulations, and geopolitical shifts. At Poppe Mechatronik, I noticed the EU Battery Regulation’s push for AI validation and used MATLAB and Python to show we could cut failure rates by 15%.
 
-This skill is particularly relevant for Huawei, which operates under **unique geopolitical scrutiny**. I personally experienced this when I was offered a position at Esslingen University’s regulation lab but was blocked due to Germany’s export control list targeting my undergraduate university. It was a political issue, not competence-related. This taught me firsthand how non-technical risks shape business.
 
-That’s why I believe I can help Huawei anticipate and navigate these risks — whether it’s GDPR for connected cars, semiconductor export controls, or EU certification processes.”
 
-**Trend Analysis and Navigating Geopolitical Realities**
 
- I believe this instinct is crucial for the “reality checks” in technology planning.
 
-At Poppe Mechatronik, for instance, I monitored EU Battery Regulation updates and noticed AI applications in validation. I ran a feasibility study with MATLAB and Python and showed we could reduce failure rates by 15% while staying compliant.
 
-This awareness is particularly relevant for Huawei’s global position. I’ve personally experienced political restrictions: earlier this year, I passed the interview and was offered a position at Esslingen University’s regulation lab, but due to Germany’s export control policy—linked to my undergraduate university—I wasn’t allowed to take it. The decision was political, not about my skills, and it reinforced my awareness of these non-technical barriers. This perspective helps me anticipate risks, like export controls or GDPR changes, and propose strategies so that roadmaps are both innovative and resilient.
-
+As of 2025, I’ve also become a German citizen,
 
