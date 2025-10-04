@@ -30,8 +30,8 @@ Finally, I’m someone who understands both the German way of doing business—s
 In summary: I bring deep German roots, a trilingual profile, proven experience in Sino-German collaborations, an entrepreneurial mindset, and strong skills in technology scouting, trend analysis, and communication. I’m confident I can contribute to Huawei’s Automotive Engineering Lab by scouting high-potential technologies, conducting reality checks, and building the right partnerships to strengthen Huawei’s position in Europe’s automotive ICT ecosystem.
 
 + I am interested in this role because
-
-I am confident in my potential to become an expert in public relations and resource integration scouting. I am eager to apply my creativity to contribute distinctive value to your company. In the current era of artificial intelligence, many capabilities such as data processing and information gathering are increasingly being outperformed by AI. However, I believe that uniquely human qualities—particularly empathy and the ability to understand others—remain irreplaceable. For this reason, I find this position especially appealing, as it offers the opportunity to leverage these strengths in a meaningful way.
++ because it perfectly aligns with my strengths: scouting emerging technologies, analyzing trends, and building strategic cooperations.
++ I am confident in my potential to become an expert in public relations and resource integration scouting. I am eager to apply my creativity to contribute distinctive value to your company. In the current era of artificial intelligence, many capabilities such as data processing and information gathering are increasingly being outperformed by AI. However, I believe that uniquely human qualities—particularly empathy and the ability to understand others—remain irreplaceable. For this reason, I find this position especially appealing, as it offers the opportunity to leverage these strengths in a meaningful way.
 
 + I would work on immediately/ what idea I have NOW - 
 
@@ -46,7 +46,7 @@ Great 👍 — here’s a **concise 5-minute version** of your self-introduction
 
 ## **Concise Interview Speech (5 min)**
 
-Good morning/afternoon, and thank you for this opportunity. My name is Chuchu Xu. I’m an MSc Mechatronics graduate from the Karlsruhe Institute of Technology with over eight years of engineering experience in the German automotive industry. I’ve recently become a German citizen, and I see myself as a *bridge-builder* between German engineering precision and Chinese innovation speed — someone who can connect Europe’s tech ecosystem with Huawei’s cutting-edge R&D.
+* I see myself as a *bridge-builder* between German engineering precision and Chinese innovation speed — someone who can connect Europe’s tech ecosystem with Huawei’s cutting-edge R&D.
 
 I’ve worked in Sino-German joint ventures like FAWAY-HELLA and FLEX-Elektrowerkzeuge, where I often acted as both a cultural and technical translator. At Hella, I aligned ISO 26262 safety standards with Chinese production demands, while at FLEX I optimized DV/PV testing and introduced AI-assisted validation that cut failure rates by 15%. Alongside this, I co-founded a small start-up, where we developed prototypes like an automated greenhouse and a camshaft test bench. Although more of a learning journey than a commercial success, it gave me valuable experience in project ownership, resource management, and innovation.
 
@@ -73,10 +73,6 @@ Perfect — I’ll weave highlights from Huawei’s **technical advantages** and
 
 ## Self-Introduction Speech (Interview Version)
 
-**Opening**
-“Good morning/afternoon, and thank you for this opportunity. My name is Chuchu Xu, an MSc Mechatronics graduate from KIT with over eight years of engineering experience in the German automotive industry.
-
-I like to see myself as a **bridge-builder between German engineering precision and Chinese innovation speed**, and I believe that’s exactly what Huawei needs in Europe — someone who can connect Europe’s tech ecosystem with Huawei’s cutting-edge R&D.”
 
 ---
 
@@ -136,7 +132,7 @@ I’d be very happy to discuss how I could apply these strengths to one of your 
 
 **Self-Introduction (Interview Monologue)**
 
-Good morning/afternoon, thank you for this opportunity. My name is Chuchu Xu, and I’m an MSc Mechatronics graduate from KIT with over eight years of engineering experience in the German automotive industry. I’m particularly excited about this Technology Planning Expert role because it perfectly aligns with my strengths: scouting emerging technologies, analyzing trends, and building strategic cooperations.
+
 
 Throughout my career, I’ve often been a *bridge-builder* between German engineering precision and Chinese innovation speed, especially in Sino-German joint ventures. I believe this unique background allows me to connect Europe’s vibrant tech ecosystem with Huawei’s R&D, adding immediate value to your team.
 
