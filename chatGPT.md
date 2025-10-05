@@ -25,6 +25,53 @@ so, to sum up, I have dual perspective, I understand both the German way of doin
 
 
 
+---
+
+1. At the moment, I’m working independently together with a colleague. We’ve rented a small workshop here in Backnang. Most of our work involves **3D printers** — right now, we’re building an **industrial 3D printer** with a large build volume for printing big parts like furniture components.
+
+2. We’ve also set up a small **electronics lab** and got some equipment, so we can do **basic measurements and analyses on sensors and actuators**. We’ve got stuff like a **spectrum analyzer**, **oscilloscope** (for checking **electromagnetic interference**), **signal generator**, **power supply**, **CNC machine**, and a **soldering station**.
+
+3. Occasionally, we get projects from clients — for example, from Heilbronn University. We’re developing **test benches**, like one for **surface and horn measurement of camshafts** — my colleague mainly handles that part.
+
+4. I also develop **test stations for mechatronic systems**. For example, I designed a test setup for a **DDS Axle Load Sensor**, which is a **Hall-based sensor** that measures **position and pressure** in real time — basically the **axle load through suspension deformation**.
+   Since these sensors can become **inaccurate under extreme environmental conditions** (like temperature fluctuations from -20°C to +80°C), we need to run tests and perform **root cause analyses**. I’ve written MATLAB scripts for data analysis and developed an **AI-assisted validation tool** to detect patterns and make predictions.
+
+5. In parallel, I’m also working with **ROS** and building **robot arms** — that’s something I started back when I was at **KIT**.
+
+6. Every now and then, **private customers** drop by with devices for repair. We run some tests and fix the electronics.
+
+7. Before that, I was at **FLEX**, working in development. I contributed to several products and built a **prototype of an autonomous lawn mower**, mostly focusing on the software side.
+
+8. I’ve done a lot of work on **motor control systems** — which is the key part in **power tool design**, like **cordless orbital sanders with variable speed control**.
+   Basically, there are three main types:
+
+   * The simplest type **has no feedback**, using **open-loop PWM signals**, like in **leaf blowers, chainsaws, or garden shears**, where precision isn’t critical.
+
+9. Then there are systems **with feedback**, using **Hall sensors** for **closed-loop torque and speed control**. These are used in tools that need **higher precision**, like **drills, grinders, or polishers**.
+
+10. The most advanced form is **field-oriented control (FOC)** — that’s used in **autonomous lawn mowers**.
+
+11. I also do a lot of **testing** — things like **electrical and mechanical performance, vibration and noise levels, temperature tests, durability, and reliability**.
+    I perform **FMEA analyses**, prepare **technical documentation for CE certifications**, and write **reports according to ISO standards**.
+
+12. I also build **test setups**. One example was the **validation of a cordless grinder**:
+    It includes **pressure and inductive Hall sensors** to measure the **motor’s rotational speed**. Under **heavy load**, **overheating** can occur, making the sensors **unstable**, which leads to **automatic shutdowns**.
+    I ran tests to find the **root cause** — for example, **dust buildup in the ventilation**, causing heat accumulation, or **PCB design issues**, where **heat-generating components (like MOSFETs)** were placed too close to the sensor, leading to **thermal drift**.
+    To solve such problems, I run **DV (Design Verification)** and **PV (Product Validation)** tests, create **test procedures**, and do **data analysis with MATLAB and Python**.
+
+13. During testing, I came up with an idea:
+    Important parameters like **temperature, current, voltage, and speed** are usually recorded manually — which is tedious.
+    So I thought about collecting that data **automatically** using a **data logger**. It’s basically an interface between the battery and the machine that automatically records, analyzes, visualizes, and stores the data.
+    The prototype can even be built into real products to collect **live operational data**. With enough data, we can **further optimize the motor control parameters**.
+
+14. On the side, I also support **smaller projects** — like **battery testing, EMC tests**, and help with **prototype manufacturing and certification** in cooperation with external labs.
+
+15. Before that, I worked at **HELLA**, where I was responsible for **CAD drawings** and for checking **design plans** according to standards before release.
+
+16. I also worked in **process planning** for headlight production lines — where I gained experience in **PLC programming, electrical schematics, and troubleshooting**, mainly using **Siemens TIA**.
+
+
+
 
 
 
