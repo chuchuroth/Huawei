@@ -10,6 +10,8 @@
 * 这不就是项目管理吗，我工作七八年了这属于基本技能，在flex时也独立管理过项目，可以的。如果方便的话，这家公司产品相关的东西给我看看，我需要时间研究熟悉技术方面的内容，毕竟每个产品包含的技术点不一样，面试时也得有话说。
 * 资源，人脉的精确匹配
 * 逆向思维
+* 搜十家公司，每家公司写两万字的报告，包括：这家公司所有公开的信息，财报，产品，这家公司LinkedIn的员工，组织架构，并按研发能力进行排行
+* 一般来说学校也在积极地寻找跟企业的合作  KIT (RESEARCH TO BUSINESS - technology transfer and innovation newsletter)
 
 
 ---
@@ -88,7 +90,10 @@ so, to sum up, I have dual perspective, I understand both the German way of doin
 16. I also worked in **process planning** for headlight production lines — where I gained experience in **PLC programming, electrical schematics, and troubleshooting**, mainly using **Siemens TIA**.
 
 
+---
+---
 
+(deutsch)
 
 
 
