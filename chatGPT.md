@@ -2,6 +2,17 @@
 
 ---
 
+* 让骄傲的欧洲人低头不是件容易的事
+* 去年我跟我朋友一起经营公司“Poppe Mechatronik”，我们在backnang租了厂房，主营电路板设计，电磁干扰检测、工业3D打印、实验测试台开发（大学的项目）之类的。目前为止我们自己开发了一些产品，活性炭空气净化器、自动化控制温湿度的植物温室、凸轮轴测试台，还有一个电动工具数据记录器。经营得有些吃力，因为我们都没创业经验，也缺乏必要的资源，也想找一些公司合作，只是结果不甚理想，盈利寥寥。因此，长远看，我还是觉得在一家成熟的企业里有针对性地发挥我的能力比较靠谱。不过创业经历也不是一无是处，在过程中我也的确积累了一些实践经验，也能独立做项目。 
+这个月我本来已经通过Esslingen大学的面试了，是一个relegung实验室的助理岗，后来大学告诉我，德国有一个exportkontrolle（出口限制政策），我读本科的哈工大在制裁名单上，所以我不能去德国大学工作。
+我当然也申请了其他公司，估计下周还能收到一些回应，你回复得快。
+* 我那时在flex遇到这个朋友，他也是机电硕士，经不住朋友的劝说+诱惑，选择辞职创业，然后情况就有些失控了。抛开大环境不说，德国经济其实也不行，我的性格也不适合创业，我更适合按部就班地在公司里上班，规则越明确越好。
+* 这不就是项目管理吗，我工作七八年了这属于基本技能，在flex时也独立管理过项目，可以的。如果方便的话，这家公司产品相关的东西给我看看，我需要时间研究熟悉技术方面的内容，毕竟每个产品包含的技术点不一样，面试时也得有话说。
+
+
+
+---
+
 **Interview Self-Introduction (Full Story)**
 
 so I’ve lived and worked in Germany for eight years now, studied at Karlsruhe and worked at FLEX, and yeah, I feel like I am rooted in germany both personally and professionally. before I came to germany I have worked in China for four years, at Hella and at FAW; I have started my career early on and mostly in the environment of Sino-German joint venture kind of company, in a international team with mixed culture, either it's a german company with chinese ties or chinese company with german ties. So I am used to connect german engineering methodologies with precision and tech ecosystem with Chinese organization mindset and supply chain and rapid speed of innovation. At FLEX, for example, I have independently managed and steered international projects end-to-end, build consensus among diverse stakeholders, and keep projects on track. A concrete example would be, I was in charge of the lawn mower robot project, and I have done my own research and connected with a startup in stuttgart, who agrees to offer their navigation module to be embedded into our lawm mower robot, I organized management visits, handled quotation and technical discussions, and structured the whole collaboration. And another example while I was tracking the Battery Regulation in europe and noticed a trend in china in using AI for validation. so I ran feasibility study and offer solutions to my chinese colleagues to reduce failure rates and keep compliant. and I utilized my alumni connections to link our R&D team with university labotory to do some advanced tests. so I always call myself as a *bridge-builder* because I often acted as a cultural and technical translator, I’d describe this skill as structural communication and information integration, which probably align with this position, I think I am capable of connecting Europe’s tech ecosystem with Huawei’s cutting-edge technology.
