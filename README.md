@@ -12,3 +12,9 @@
 (i am just a regular chinese, I don't have rich parents, I don't have an uncle who works for the party at high rank, i am not in that circle )
 
 * 说实话，如果去掉杀猪盘最后骗钱那一步，那就是非常完美的公关和销售策略，人与人的信任感本就需要时间和耐心慢慢建立
+
+
+
++ 小人列表
+
+name  |   性格特点   | 性别  |  是否involve钱   |   语言暴力or其他暴力   |   伤害程度   ｜  报警是否有用
