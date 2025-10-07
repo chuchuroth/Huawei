@@ -91,7 +91,73 @@ so, to sum up, I have dual perspective, I understand both the German way of doin
 
 (deutsch)
 
+Hier ist die Übersetzung ins Deutsche (im Stil einer strukturierten Selbstvorstellung für ein Interview):
 
+Ich lebe und arbeite nun seit acht Jahren in Deutschland, habe in Karlsruhe studiert und war bei FLEX beschäftigt. Daher fühle ich mich sowohl privat als auch beruflich in Deutschland verwurzelt. Bevor ich nach Deutschland kam, habe ich vier Jahre lang in China gearbeitet, bei Hella und FAW. Schon früh habe ich in einem Umfeld von chinesisch-deutschen Joint Ventures gearbeitet, davon gibt es viele: meist internationale Teams mit gemischtem kulturellem Hintergrund, sei es ein deutsches Unternehmen mit chinesischen Verbindungen oder umgekehrt (Beispiele sind Faway-Hella, Flex-Chervon, Baolong-Huf Sens usw.). In diesen Rollen habe ich eigenständig internationale Projekte von Anfang bis Ende gesteuert, den Konsens zwischen diversen Akteuren hergestellt und Projekte zuverlässig vorangetrieben. Ich bin daran gewöhnt, deutsche Ingenieurmethodik und technische Präzision mit chinesischer Organisationsmentalität, Lieferkette und hoher Innovationsgeschwindigkeit zu verknüpfen.
+
+Ein Beispiel: Bei FLEX war ich mitverantwortlich für die Entwicklung eines Mähroboter-Prototyps und habe für das Navigationssystem Verbindung zu einem Stuttgarter Start-up aufgenommen, das sich auf fortschrittliche LiDAR-Technologie spezialisiert hat – ein komplexes, vielversprechendes, aber noch unerprobtes Feld. Ich habe eine umfassende Technik- und Patentanalyse durchgeführt, Gespräche mit dem Entwicklungsteam geführt und deren Prototypen in unser System integriert und evaluiert. Ich organisierte Management-Besuche, betreute Angebotserstellung und technische Abstimmung und strukturierte die gesamte Zusammenarbeit. Am Ende funktionierte alles wie geplant, wir entschieden uns für das Start-up, und das Navigationsmodul wurde in unsere Mähroboter integriert.
+
+Ein weiteres Beispiel: Bei FLEX habe ich die europäischen Batterieregulierungen verfolgt und eine Entwicklung beobachtet, dass in China KI zur Validierung eingesetzt wird. Ich habe eine Machbarkeitsstudie durchgeführt und meinen chinesischen Kollegen Lösungen angeboten, um Ausfallraten zu reduzieren und die Einhaltung der Vorschriften zu sichern. In Notfällen habe ich auch mein Alumni-Netzwerk genutzt, um unsere F&E-Teams mit Hochschullabors zwecks spezieller Tests zu verbinden. Daher sehe ich mich selbst als „Brückenbauer“, da ich oft die Rolle eines kulturellen und technischen Übersetzers einnehme. Diese Fähigkeit – strukturierte Kommunikation und Informationsintegration – ist aus meiner Sicht sehr relevant für diese Position, da ich überzeugt bin, dass ich Europas Tech-Ökosystem optimal mit Huaweis führender Technologie verknüpfen kann.
+
+Eine weitere Stärke, die ich in den letzten Jahren durch Studium, Beruf und eigenes Interesse aufgebaut habe, ist das sogenannte Technologie-Scouting und Netzwerken. Auf Konferenzen, Fachmessen oder Online-Plattformen wie Crunchbase habe ich viele Kontakte geknüpft und gepflegt – Professoren, Kollegen, Vorgesetzte, teils sind daraus persönliche Freundschaften entstanden. Zähle ich Alumni und LinkedIn-Kontakte zusammen, komme ich auf ein Netzwerk von 200-300 Kontakten. Sie sind nicht alle eng, aber ich bin sicher, dass bei einer höflichen Anfrage etwa die Hälfte reagieren würde. Dieses Netzwerk würde ich gezielt für Scouting und Kooperationsanbahnungen einsetzen.
+
+Zurzeit betreibe ich mit meinem Partner eine kleine Start-up-Werkstatt in Backnang, suche auch Kontakt zu anderen Unternehmern (meist Raum Stuttgart). Offline nehme ich an Messen wie der IAA Mobility in München oder VDI-Kongressen teil, online recherchiere ich über Plattformen wie Crunchbase zu Start-ups. Auch Tech-Talks von CEOs finde ich oft sehr aufschlussreich.
+
+Zwar ist die wirtschaftliche Seite unseres Start-ups im Moment eher als Lernreise denn als Geschäftserfolg zu sehen, doch man lernt aus Fehlern mindestens so viel wie aus Erfolgen. Ich habe wertvolle Erfahrungen gesammelt – zum Beispiel Projekte von der Idee bis zum Prototypen eigenverantwortlich umzusetzen, Ressourcen einzuteilen, Lösungen zu entwickeln und ein funktionierendes Netzwerk aufzubauen. Wir haben zahlreiche **3D-Drucker**; einen **Industrie-3D-Drucker** für großformatige Teile wie Möbel selbst gebaut, ein kleines **Elektrolabor** mit **Spektrumanalysator**, **Oszilloskop**, **Signalgenerator**, **Netzgerät**, **CNC-Fräse** und **Lötstation** eingerichtet, messen und analysieren an Sensoren und Aktuatoren (u.a. EMV), entwickeln Leiterplatten und Prototypen wie ein automatisiertes Gewächshaus und einen Nockenwellenteststand.
+
+Ein weiteres Hobby ist für mich die Beobachtung von Wirtschaftsnachrichten, Regularien und geopolitischen Entwicklungen, zum Beispiel Neuigkeiten aus dem Silicon Valley, Firmenübernahmen. Besonders interessiert mich – wie auch in Ihrer Stellenanzeige gefordert – **Trendanalyse und Machbarkeitsstudien (Reality Checks)**. Meine Kriterien zur Bewertung des Entwicklungspotenzials eines Unternehmens sind: Technologie, Daten und Innovationskraft. Ganz wie Investment-Analysten an der Wall Street betreibe ich meine eigene technische und strategische Due Diligence: Sind Innovationen realistisch, skalierbar, regelkonform? Ich habe Künstliche Intelligenz aktiv in meinen Arbeitsalltag integriert, um Informationsprozesse zu beschleunigen. Einer meiner Bewertungspunkte ist: Verankert das Unternehmen KI in interne Systeme und Geschäftsprozesse? Huawei ist hier ein klarer **Vorreiter**.
+
+Machbarkeit ist nicht nur technisch; ich habe selbst politische Barrieren erfahren: Im letzten Monat erhielt ich ein Stellenangebot der Hochschule Esslingen für das Labor für Regelungstechnik, das aber wegen der deutschen Exportkontrolle und weil meine chinesische Universität auf der Sanktionsliste steht, kurzfristig zurückgezogen wurde – laut deutschem Antidiskriminierungsgesetz zwar fragwürdig, aber juristisch durchsetzbar. Dieses Erlebnis hat mir vor Augen geführt, wie nichttechnische Risiken eine Karriere und durchaus auch Unternehmen beeinflussen können. Insofern verstehe ich Huaweis Position sehr gut – das Unternehmen ist sowohl ein Aushängeschild für Chinas technologische Eigenständigkeit als auch Ziel westlicher **Sanktionen und Prüfungen**. Deshalb halte ich es für essenziell, solche Risiken frühzeitig zu identifizieren und smarte Strategien zu deren Steuerung zu entwickeln, damit Roadmaps sowohl innovativ als auch widerstandsfähig bleiben – stets im Blick: Exportkontrollen, DSGVO, Vorschriften zu Halbleitern und EU-Zertifizierungsprozesse.
+
+Huawei ist in China jedem bekannt. Was ich konkret über Huawei weiß: Die Firma hat **einzigartige Stärken** – führend in vielen technologischen Bereichen, mit enormen F&E-Investitionen (2024 fast 21% des Umsatzes), über 240.000 Patenten, globaler 5G-Führerschaft, einem Automotive-Geschäft, das sich im Vorjahr vervierfacht hat. Das **ADS Qiankun-System** läuft bereits in über 22 Serienmodellen, das **HarmonyOS**-Cockpit in Kombination mit 5G-V2X verschafft Huawei einen Ökosystemvorteil, dem nur wenige etwas entgegensetzen können. Huawei wird so eher Orchestrator der automobilen Wertschöpfung als "nur" Tier-1-Lieferant. Würde ich die Stelle bei Ihnen antreten, würde ich von Beginn an aktiv Strategie aufbauen, potenzielle Zielunternehmen analysieren, gezielt Kontakte aufbauen – besonders im Hinblick auf Europas China-Verbindungen, z.B. L3-Autonomie als Trend mit unmittelbarem Roadmap-Wert.
+
+Ich finde, das passt sehr gut zu meinen Kompetenzen: Scouting neuer Technologien, Trendanalyse, Aufbau strategischer Partnerschaften. Vielleicht brauche ich etwas Zeit, um Experte zu werden, z.B. im Bereich Öffentlichkeitsarbeit oder Ressourcen-Scouting; aber ich bringe Qualitäten mit, die wesentlich sind, denn im Zeitalter der KI werden viele Fähigkeiten wie Datenverarbeitung von KI übernommen, doch Kreativität, Empathie, Instinkt und die Fähigkeit, andere Menschen einzuschätzen, bleiben einzigartig – sie sind entscheidend für belastbare "Reality Checks" bei der Technologieplanung. In der Praxis heißt das, in Projektkooperationen einen Deep Dive in die Technik, Patente und Interviews mit Entwicklerteams zu machen und Integration, Skalierbarkeit und Risiken gründlich zu überprüfen – damit Investitionen gut abgesichert und Partnerschaften robust gemacht werden. Am Ende steht ein fundierter Machbarkeitsbericht, der als Grundlage für Akquisition und Kooperation dient, z.B. auch für gemeinsame F&E.
+
+Zusammengefasst: Ich habe eine doppelte Perspektive und verstehe sowohl die deutsche als auch die chinesische Geschäftswelt. Ich verfüge über substanzielle chinesisch-deutsche Projekterfahrung, über ein belastbares Netzwerk und tiefgehende Fachexpertise in der Mechatronik – und ich bin überzeugt, dass ich zum Erfolg Ihres Teams beitragen kann: ob beim Scouting von Schlüsseltechnologien, Realitätschecks, Aufbau strategischer Partnerschaften, Entwicklung innovativer Roadmaps oder zur Stärkung von Huaweis Position in Europa. Ich würde meine Fähigkeiten und ingenieurtechnische Expertise gerne in strukturierter Form bei Ihnen einbringen – das passt ideal zu meinem persönlichen Wachstum und zu den langfristigen Zielen Ihres innovativen Unternehmens. Das ist wirklich spannend.
+
+---
+
+1. Momentan arbeite ich zusammen mit meinem Kollegen selbstständig. Wir haben hier in Backnang eine kleine Werkstatt gemietet. Meistens arbeiten wir mit **3D-Druckern** – gerade basteln wir an einem **Industrie-3D-Drucker** mit großem Bauraum, um auch größere Teile wie Möbelstücke drucken zu können.
+
+2. Wir haben außerdem ein kleines **elektrisches Labor** eingerichtet und ein paar Geräte besorgt – damit kann man **Messungen und Analysen an Sensoren und Aktuatoren** machen. Also so Sachen wie **Spektrumanalysator**, **Oszilloskop** (für **elektromagnetische Störungen**), **Signalgenerator**, **Netzgerät**, **CNC-Maschine** und **Lötstation** sind da am Start.
+
+3. Ab und zu bekommen wir auch Aufträge, zum Beispiel von der Hochschule Heilbronn. Da entwickeln wir **Versuchsstände**, aktuell z. B. einen **Teststand zur Oberflächen- und Hupenvermessung von Nockenwellen** – den Teil übernimmt meistens mein Kollege.
+
+4. Ich selbst entwickle auch **Teststationen für mechatronische Systeme**. Zum Beispiel hab ich einen Testaufbau für einen **DDS Axle Load Sensor** gebaut – das ist ein **Hall-basierter Sensor**, der **Position und Druck** in Echtzeit misst, also die **Achslast über die Federungsverformung**.
+   Weil die Sensoren bei **extremen Bedingungen** (z. B. -20 °C bis +80 °C) manchmal **ungenau messen**, muss man Tests und **Root-Cause-Analysen** machen. Dafür hab ich MATLAB-Skripte geschrieben, um die Daten auszuwerten, und ein **KI-gestütztes Validierungstool** gebaut, das Muster erkennt und Vorhersagen machen kann.
+
+5. Parallel arbeite ich weiter mit **ROS** und bastle an **Roboterarmen** – das Projekt hab ich damals am **KIT** angefangen.
+
+6. Ab und zu kommt auch mal ein **Privatkunde** vorbei, bringt Geräte zur Reparatur, und dann machen wir Tests und reparieren die Elektronik.
+
+7. Davor war ich bei **FLEX** in der Entwicklung. Da hab ich an mehreren Produkten mitgearbeitet und unter anderem einen **Prototyp für einen autonomen Rasenmäher** gebaut – hauptsächlich im Software-Bereich.
+
+8. Besonders viel hab ich mit **Motorsteuerungen** gearbeitet – das ist ja der wichtigste Teil bei **Elektrowerkzeugen**, zum Beispiel bei **Akku-Exzenterschleifern mit variabler Drehzahlregelung**.
+   Grundsätzlich gibt’s da drei Arten:
+
+   * Die einfachste ist **ohne Feedback**, also **PWM-Signale im offenen Regelkreis** – das findet man z. B. bei **Laubbläsern, Kettensägen oder Gartenscheren**, wo’s auf Präzision nicht so ankommt.
+
+9. Dann gibt’s Systeme **mit Feedback**, also z. B. mit **Hallsensoren**, wo man eine **geschlossene PWM-Drehmoment- und Drehzahlregelung** hat. Das wird bei Werkzeugen mit **höheren Genauigkeitsanforderungen** eingesetzt, etwa bei **Bohrmaschinen, Schleifern oder Polierern**.
+
+10. Und die fortschrittlichste Variante ist die **feldorientierte Regelung** – die kommt z. B. bei **autonomen Rasenmähern** zum Einsatz.
+
+11. Ich mach auch viele **Tests** – also **elektrische und mechanische Leistung, Vibrationen, Geräuschpegel, Temperatur, Dauer- und Zuverlässigkeitstests**. Außerdem mach ich **FMEA-Analysen**, schreib **technische Dokumentationen für CE-Zertifizierungen** und **Berichte nach ISO-Norm**.
+
+12. Ich entwickle auch **Testaufbauten**. Ein Beispiel war die **Validierung eines Akku-Schleifers**:
+    Da sind **Druck- und induktive Hallsensoren** integriert, um die **Motordrehzahl** zu messen. Unter **hoher Belastung** kann’s da zu **Überhitzung** kommen, wodurch die Sensoren **instabil** werden – dann schaltet das Gerät automatisch ab.
+    Ich hab dann Tests gemacht, um den **Root Cause** zu finden – z. B. ob sich **Staub in der Belüftung sammelt**, oder ob’s am **PCB-Design** lag (wenn z. B. MOSFETs zu nah am Sensor sitzen → **thermische Drift**).
+    Um solche Probleme zu lösen, macht man dann **DV- (Design Verification)** und **PV-Tests (Product Validation)**, erstellt **Prüfabläufe** und macht **Datenanalyse mit MATLAB und Python**.
+
+13. Dabei kam mir auch eine Idee:
+    Während der Tests muss man ständig Parameter wie **Temperatur, Strom, Spannung oder Drehzahl** manuell mitschreiben – total nervig.
+    Also hab ich die Idee gehabt, das Ganze **automatisch zu erfassen** – mit einem **Datalogger**. Das ist eine Schnittstelle zwischen Akku und Maschine, die automatisch Daten aufnimmt, auswertet, grafisch darstellt und speichert.
+    Der Prototyp kann sogar direkt in echte Geräte eingebaut werden, um **Live-Daten im Betrieb** zu sammeln. Mit genug Daten kann man dann die **Motorsteuerung noch weiter optimieren**.
+
+14. Nebenbei begleite ich auch **kleinere Projekte**, z. B. **Batterieprüfungen**, **EMV-Tests** und unterstütze bei **Prototypenfertigung und Zertifizierung** mit externen Laboren.
+
+15. Vorher war ich bei **HELLA**, dort war ich für **CAD-Zeichnungen** zuständig und hab **Konstruktionspläne** nach Standards geprüft, bevor sie freigegeben wurden.
+
+16. Außerdem hab ich in der **Prozessplanung** für Scheinwerfer-Produktionslinien mitgearbeitet – dabei hab ich Erfahrung mit **SPS-Programmierung, Stromlaufplänen und Fehlersuche** gesammelt, hauptsächlich mit **Siemens TIA**.
 
 
 
