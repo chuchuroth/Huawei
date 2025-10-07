@@ -21,7 +21,7 @@
 
 + (udacity) create Business ai agent 
 
-so i think currently we are undergo the ai shock, no business, no industry can survive without ai. the first thing i would do if I'm hired for this position is probably to write a Workflow and design a ai agent for each step, because whoever does not adopt ai is doomed to be a loser, ai could possibly change business model 
+so i think currently we are undergo the ai shock, no business, no industry can survive without ai. the first thing i would do if I'm hired for this position is probably to write a Workflow and design a ai agent for each step, or example using agent kit from openai. because whoever does not adopt ai is doomed to be a loser, ai could possibly change business model 
 
 
 ---
