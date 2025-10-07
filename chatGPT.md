@@ -19,7 +19,7 @@
 * youtube : AI agent orchestration 
 + (udacity) create Business ai agent 
 
-the first thing i would do if I'm hired for this position is probably to write a Workflow and design a ai agent for each step, 
+the first thing i would do if I'm hired for this position is probably to write a Workflow and design a ai agent for each step, because whoever does not adopt ai is doomed to be a loser, ai could possibly change business model 
 
 
 ---
