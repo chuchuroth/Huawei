@@ -16,6 +16,11 @@
 
 
 
+* youtube : AI agent orchestration 
++ (udacity) create Business ai agent 
+
+the first thing i would do if I'm hired for this position is probably to write a Workflow with each steps take by ai agent, 
+
 
 ---
 
