@@ -17,8 +17,6 @@
 
 * 总结王路飞的三个视频的核心观点，商业+ai=xxxx
 
-
-* youtube : AI agent orchestration 
 + (udacity) create Business ai agent 
 
 so i think currently we are undergo the ai shock, no business, no industry can survive without ai. the first thing i would do if I'm hired for this position is probably to write a Workflow and design a ai agent for each step, because whoever does not adopt ai is doomed to be a loser, ai could possibly change business model 
