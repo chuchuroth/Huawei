@@ -24,6 +24,9 @@
 so i think currently we are undergo the ai shock, no business, no industry can survive without ai. the first thing i would do if I'm hired for this position is probably to write a Workflow and design a ai agent for each step, or example using agent kit from openai. because whoever does not adopt ai is doomed to be a loser, ai could possibly change business model 
 
 
+* 我平时喜欢看华尔街的故事，关注政策的变化是件非常有趣的事，举个例子，当年Steve的内幕交易是标准的违法行为，是会被fbi逮捕坐牢的，但现在自从trump上台，很多规则就悄无声息的变了，当年犯法的行为如今成了行业常规操作，这就是政策的多变性造成的规则甚至法律的变化，是否在法律允许范围也是此一时彼一时，这对于我们从业人员来说影响非常大，必须保持敏锐的洞察力和判断力
+
+
 ---
 
 **Interview Self-Introduction (Full Story)**
