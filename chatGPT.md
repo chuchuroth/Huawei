@@ -9,7 +9,100 @@
 * 我那时在flex遇到这个朋友，他也是机电硕士，经不住朋友的劝说+诱惑，选择辞职创业，然后情况就有些失控了。抛开大环境不说，德国经济其实也不行，我的性格也不适合创业，我更适合按部就班地在公司里上班，规则越明确越好。
 * 这不就是项目管理吗，我工作七八年了这属于基本技能，在flex时也独立管理过项目，可以的。如果方便的话，这家公司产品相关的东西给我看看，我需要时间研究熟悉技术方面的内容，毕竟每个产品包含的技术点不一样，面试时也得有话说。
 
-  
+---
+
+# chatGPT
+
+
+
+### **Interview Self-Introduction (Refined and Natural)**
+
+I’ve lived and worked in Germany for about eight years now. I studied at the Karlsruhe Institute of Technology and worked at FLEX. Before that, I spent four years in China at Hella and FAW. From the very beginning, I’ve been working in Sino-German joint-venture environments — international teams where people bring different perspectives, cultures, and problem-solving styles together. That experience really shaped how I work today.
+
+Over the years, I’ve managed international projects end-to-end — building consensus among diverse stakeholders, keeping things on track, and bridging the gap between German engineering precision and the Chinese mindset of speed and adaptability.
+
+One example: at FLEX, I helped lead the development of an autonomous lawn-mowing robot. During that project, I connected with a startup in Stuttgart that specialized in advanced LiDAR technology. It was a promising but untested area, so I led a full “reality check” — reviewing their patents, interviewing their engineers, and testing prototypes directly on our robot system. After technical and commercial evaluation, we decided to integrate their navigation module — and it worked exactly as expected.
+
+Another example was when I noticed how AI was being used in China for battery validation while I was tracking EU Battery Regulation updates. I ran a feasibility study and proposed a data-driven validation approach that helped reduce failure rates and improve compliance. And occasionally, when we needed specialized testing, I reached out through my alumni network to university labs — using personal connections to get things done fast.
+
+That’s why I often describe myself as a *bridge-builder* — connecting technologies, people, and organizations across cultures. I think this aligns very well with what Huawei is looking for in this role.
+
+
+
+When it comes to scouting, I believe success depends on the ability to precisely match resources and networks. To me, relationships are a kind of *social capital* — just as valuable as financial or physical assets. The more people you can connect with, the more value you can create.
+
+I’ve built a solid professional network in Germany — professors from KIT, my former colleagues and mentors, and a wider LinkedIn network of about two to three hundred professionals. They’re not all close friends, but I’m confident that many would respond if I reached out in a professional way. I’d immediately leverage this network for scouting opportunities, building collaborations, and arranging management visits.
+
+I’m also very skilled at information gathering. For instance, if I need to identify all professors in a certain department, I can use publicly available sources — like an exam schedule or research report — to trace back and compile a full list. Similarly, when I want to understand a company’s organizational structure, I use LinkedIn to analyze current employees and their roles. And when I’m interested in a specific company, I take the time to review all its public data — financial reports, product documentation, and R&D activities — to build a detailed picture of its capabilities.
+
+Back at KIT, I saw how universities also seek collaboration. KIT’s *Research to Business* program is a great example — it connects academic research with industrial partners for technology transfer and innovation. I see that same potential in Huawei’s partnerships.
+
+
+
+Speaking of that, KIT already has strong links with Huawei through the *AI Talent Training Program* between the IMI Institute and Huawei Deutschland. The program uses Huawei’s Ascend kits for hands-on AI training in Industry 4.0 — which perfectly matches my mechatronics background. With KIT’s new *State Graduate Center for AI* in Heilbronn, there’s even more potential for joint research. I’d love to propose small pilot collaborations, like using KIT’s AI labs to simulate Huawei’s Qiankun ADS system for EV applications.
+
+
+
+I think I’m a good fit for this role because it combines everything I enjoy — scouting emerging technologies, analyzing trends, and building meaningful partnerships. My typical approach starts with research and collaboration: studying technical documentation, evaluating patents, interviewing teams, and assessing the maturity and scalability of a technology. This process helps ensure well-informed decisions, mitigates investment risk, and leads to structured partnerships or acquisitions supported by feasibility reports.
+
+Outside of work, I’ve also co-founded a small startup workshop with my boyfriend in Backnang. We experiment with 3D printing, electronics, and automation — from designing PCBs to building prototypes like an automated greenhouse. It’s not a commercial success yet, but it’s been a great learning journey in taking ownership, managing resources, and turning ideas into working prototypes.
+
+
+
+Another personal interest of mine is following business and geopolitical trends. My favorite Netflix show is *House of Cards*, and I’ve always been fascinated by Wall Street stories. I once read a book about Steve Cohen — the so-called “Hedge Fund King.” It described how he was suspected of insider trading and how the FBI failed to turn an informant despite overwhelming evidence. That story made me realize how much the rules can change over time — and how important it is to stay alert and adaptable.
+
+This connects with how I view information today. In the modern world, information is power — a kind of social currency. Those who can access and interpret it effectively are the ones who can influence others. But getting unique information takes effort. That’s why I use AI tools to actively search, filter, and analyze data — controlling how I get information rather than passively consuming it. I also try to slow down, dive deeper into certain topics, and form my own perspective through what I call a *personal feedback loop*: connecting with people, gathering feedback, and continuously refining my understanding.
+
+
+
+I’ve also learned that feasibility isn’t only technical — it can be political. Recently, I was offered a research position at Hochschule Esslingen, but it was withdrawn due to Germany’s export-control policy linked to my Chinese alma mater. That experience gave me firsthand insight into how non-technical risks can affect individuals and organizations. So, I truly understand Huawei’s position — being both a national tech champion and a company under global scrutiny. I believe identifying such risks early and navigating them intelligently is key to building innovative yet resilient roadmaps.
+
+
+
+Huawei, to me, represents technological leadership — with massive R&D investment, over 240 thousand patents, and global dominance in 5G and automotive systems. The *ADS Qiankun* system and *HarmonyOS cockpit* demonstrate Huawei’s strength as not just a supplier, but an orchestrator in the automotive value chain. In this role, I’d focus on scouting high-potential technologies like L3 autonomy and expanding collaboration between Huawei and European research centers.
+
+I also see Huawei as a front-runner in AI. If I join, the first thing I’d do is study Huawei’s AI ecosystem — how AI models are integrated across workflows — and explore ways to enhance coordination and interoperability. I already use AI agents and orchestration tools in my own work to improve efficiency, and I think that mindset could add value here.
+
+
+
+To me, innovation often comes from *combining existing technologies or industries* — much like an AI orchestrator coordinating different agents to create something new. You don’t always have to invent from scratch; sometimes, applying your existing skills in a new way can open up a whole new direction or even a new industry.
+
+
+So, to sum up — I bring a dual perspective: I understand both the German and Chinese ways of doing business, have hands-on engineering expertise in mechatronics and AI, and a strong professional network in Germany. I’m confident I can contribute to scouting high-potential technologies, assessing feasibility, and building strategic partnerships that strengthen Huawei’s position in Europe.
+
+Joining Huawei feels like the perfect next step — it aligns my own growth with the long-term goals of an innovative and globally respected company.
+
+---
+
+# shorter-version
+
+
+
+
+### **Interview Self-Introduction (5-Minute Version)**
+
+I’ve lived and worked in Germany for about eight years now. I studied at the Karlsruhe Institute of Technology and worked at FLEX. Before that, I spent four years in China at Hella and FAW. From early on, I’ve been working in Sino-German joint ventures — international teams where I learned to bridge German engineering precision with the Chinese mindset of speed and flexibility.
+
+At FLEX, for example, I helped lead the development of an autonomous lawn-mowing robot. I connected with a startup in Stuttgart specializing in LiDAR technology, reviewed their patents, tested their prototypes, and eventually integrated their navigation module into our product. It was a great experience in turning collaboration into real results. Another time, while tracking EU Battery Regulations, I noticed how China was applying AI for validation. I ran a feasibility study and proposed similar methods to improve reliability and compliance. These experiences made me realize that I naturally play the role of a *bridge-builder* — connecting technologies, people, and organizations across cultures.
+
+I’ve built a strong professional network in Germany — professors from KIT, former colleagues, and a wider LinkedIn circle of around two to three hundred professionals. They’re not all close friends, but I’m confident many would respond if I reached out. I’d leverage this network immediately for scouting opportunities, information gathering, and potential collaborations.
+
+I’m also quite good at finding and analyzing information. If I need to understand a university or a company, I use public data — exam schedules, LinkedIn profiles, financial reports — to build a full picture. Back at KIT, I also saw how universities look for collaboration, like the *Research to Business* program, which links academic research to industry projects.
+
+In fact, KIT already has strong ties with Huawei through the *AI Talent Training Program*, where Huawei donated Ascend kits for hands-on AI training. With the new *State Graduate Center for AI* in Heilbronn focusing on robotics and cybersecurity, there’s huge potential for joint work. I’d love to help expand that collaboration — for example, by running small pilot workshops or research projects that link Huawei’s automotive technologies with KIT’s AI research.
+
+I believe this role suits me well because it combines what I’m best at — scouting emerging technologies, analyzing feasibility, and building strategic relationships. I also co-founded a small startup workshop in Backnang, where we experiment with 3D printing and automation. It’s a great way to stay hands-on and creative — turning ideas into working prototypes and continuously learning from practice.
+
+I also follow business and geopolitical trends closely. I’ve learned that success isn’t just about technology but also about understanding the changing policy landscape. For example, I recently experienced how export-control regulations can directly affect career opportunities. That gave me firsthand insight into how non-technical risks influence both individuals and companies — and why identifying them early is crucial.
+
+Huawei, to me, is a true technology leader — with strong R&D investment, global leadership in 5G, and growing strength in automotive and AI systems. I see Huawei not just as a supplier but as an orchestrator in the entire value chain. If I join, I’d focus on connecting Huawei’s technologies with European ecosystems and scouting high-potential areas like autonomous driving and AI-driven manufacturing.
+
+I’m also passionate about AI integration. I already use AI tools for research and automation, and I see innovation much like an AI orchestrator — combining different technologies and ideas to create something new. You don’t always have to invent from scratch; sometimes, it’s about applying what you already know in a new context to open new possibilities.
+
+To sum up, I bring a dual perspective — understanding both Chinese and German business cultures, hands-on technical experience in mechatronics and AI, and a solid network in Germany. I’m confident I can contribute to Huawei’s technology scouting, partnership building, and long-term innovation goals in Europe.
+
+
+
 ---
 
 # grok
