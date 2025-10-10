@@ -202,8 +202,4 @@ So, to sum up, I have a dual perspective, I understand both the German way of do
 ## who should i report to , how often
 
 
-智能座舱， 语音交互，音频，屏幕。
-自动驾驶
-
-
 
