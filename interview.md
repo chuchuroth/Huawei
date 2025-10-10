@@ -49,20 +49,6 @@ another thing I do often is gathering information. For example, if I need a list
 另外，如果我想了解一家上市公司的组织架构，我会充分利用像 LinkedIn 这样的平台，把公司现任员工的信息整理出来，再通过他们的职位和职责分析，推断出公司的组织结构。
 如果我对某家公司特别感兴趣，我还会花时间收集和研读所有公开信息，例如财报、产品介绍等，并对其研发能力进行详细的分析与评估。
 
-# KIT and huawei
-
-~~Building on that,~~ i also did my research, KIT already has some cool ties with Huawei through the AI Talent Training Program at the Institute for Information Management in Engineering—IMI for short—where Huawei donated 100 Ascend kits back in 2020 for hands-on training in deep learning and neural networks, all geared toward Industry 4.0 stuff like AI for robotics. It's this 'Train-the-Trainer' setup, with online sessions since the pandemic, and it fits right into mechatronics work like my thesis on autonomous cranes. And with KIT's new State Graduate Center for AI kicking off this year in Heilbronn—focusing on robotics and cybersecurity—there's even more potential there. For instance, I'd start actionable by reaching out to Prof. Jivka Ovtcharova, the head at IMI (you can find her at jivka.ovtcharova@kit.edu on their site), for instance I could maybe write a quick email proposing a small pilot: Like a workshop using the LGZ (Landesgraduiertenzentrum für angewandte Künstliche Intelligenz) resources to test Huawei's Qiankun ADS on KIT's simulations for ADAS feasibility and technical bottleneck—starting with a 15-minute call, then inviting her to an alumni event in Munich. That way, it's low-key but builds real momentum for scouting.
-
-我也做了一些功课。其实 KIT 和华为之间已经有不错的合作基础。
-比如在信息管理与工程研究所（IMI），他们通过人工智能人才培养项目（AI Talent Training Program）开展了合作。早在 2020 年，华为就向该项目捐赠了 100 套 Ascend 开发套件，用于深度学习和神经网络的实操培训，这些内容都和工业 4.0 相关，比如面向机器人应用的人工智能。
-这个项目采用的是 “Train-the-Trainer（培训培训者）” 的形式，自疫情以来也一直通过线上课程持续进行。其实它和我之前在自动化起重机方向的论文研究（属于机电一体化领域）非常契合。
-
-此外，KIT 今年在海尔布隆新成立了州级人工智能研究生中心（State Graduate Center for AI），重点方向包括机器人和网络安全，这也带来了更多的合作潜力。
-如果是我来推动，我会先从一些可执行的小动作入手，比如联系 IMI 的负责人 Jivka Ovtcharova 教授（她的邮箱在官网上可以找到：jivka.ovtcharova@kit.edu），
-我可以先发一封简短的邮件，提议做一个小型的试点，比如利用 LGZ（应用人工智能州级研究生中心）的资源，在 KIT 的自动驾驶仿真环境里测试华为的乾坤 ADS 系统的可行性和技术瓶颈。
-从一次 15 分钟的初步沟通开始，再邀请她参加在慕尼黑的校友活动。
-这种方式比较低调务实，但能够真正为后续的技术合作和资源对接积累势能。
-
 Another habit which is much like a hobby, also relevant to this job, is tracking business news, regulations, and geopolitical shifts—like what's new in the business world, what happens recently in Silicon Valley or Wall Street, any corporate takeovers. I also have a personal interest for—to quote from the job description—trend analysis and feasibility 'reality checks.' I have my own sets of criteria for evaluating a company's growth potential: Technology, data, and innovation. Just as Wall Street analysts do due diligence on investments, I do my own technical and strategic due diligence on new technologies, just for fun. and it's not just about spotting exciting technologies; it's more about asking: Are they feasible, scalable, and compliant, right.
 
 我还有一个习惯，也算是兴趣爱好，而且和这个职位也挺相关的，就是关注商业新闻、政策法规以及地缘政治的变化。
@@ -108,6 +94,22 @@ From a broader point of view, I think the way wealth is created is changing. It'
 如今，无论是对个人还是对企业而言，构建有意义的连接，正在成为最有价值的资产。
 当一家企业能够在其所在行业中成为关键的“连接者”，它的市场地位会自然增强，
 而与外部市场的交易成本也会随之下降——这是从经济学角度来看的一种体现。
+
+# KIT and huawei
+
+~~Building on that,~~ i also did my research, KIT already has some cool ties with Huawei through the AI Talent Training Program at the Institute for Information Management in Engineering—IMI for short—where Huawei donated 100 Ascend kits back in 2020 for hands-on training in deep learning and neural networks, all geared toward Industry 4.0 stuff like AI for robotics. It's this 'Train-the-Trainer' setup, with online sessions since the pandemic, and it fits right into mechatronics work like my thesis on autonomous cranes. And with KIT's new State Graduate Center for AI kicking off this year in Heilbronn—focusing on robotics and cybersecurity—there's even more potential there. For instance, I'd start actionable by reaching out to Prof. Jivka Ovtcharova, the head at IMI (you can find her at jivka.ovtcharova@kit.edu on their site), for instance I could maybe write a quick email proposing a small pilot: Like a workshop using the LGZ (Landesgraduiertenzentrum für angewandte Künstliche Intelligenz) resources to test Huawei's Qiankun ADS on KIT's simulations for ADAS feasibility and technical bottleneck—starting with a 15-minute call, then inviting her to an alumni event in Munich. That way, it's low-key but builds real momentum for scouting.
+
+我也做了一些功课。其实 KIT 和华为之间已经有不错的合作基础。
+比如在信息管理与工程研究所（IMI），他们通过人工智能人才培养项目（AI Talent Training Program）开展了合作。早在 2020 年，华为就向该项目捐赠了 100 套 Ascend 开发套件，用于深度学习和神经网络的实操培训，这些内容都和工业 4.0 相关，比如面向机器人应用的人工智能。
+这个项目采用的是 “Train-the-Trainer（培训培训者）” 的形式，自疫情以来也一直通过线上课程持续进行。其实它和我之前在自动化起重机方向的论文研究（属于机电一体化领域）非常契合。
+
+此外，KIT 今年在海尔布隆新成立了州级人工智能研究生中心（State Graduate Center for AI），重点方向包括机器人和网络安全，这也带来了更多的合作潜力。
+如果是我来推动，我会先从一些可执行的小动作入手，比如联系 IMI 的负责人 Jivka Ovtcharova 教授（她的邮箱在官网上可以找到：jivka.ovtcharova@kit.edu），
+我可以先发一封简短的邮件，提议做一个小型的试点，比如利用 LGZ（应用人工智能州级研究生中心）的资源，在 KIT 的自动驾驶仿真环境里测试华为的乾坤 ADS 系统的可行性和技术瓶颈。
+从一次 15 分钟的初步沟通开始，再邀请她参加在慕尼黑的校友活动。
+这种方式比较低调务实，但能够真正为后续的技术合作和资源对接积累势能。
+
+
 
 # why I am searching for job
 Of course, feasibility is not only technical. It's also geopolitical. I've personally experienced political issue recently: Last month, I was offered a position at Hochschule Esslingen at their Regelungstechnik lab, and I was supposed to start from October, but due to Germany's export control policy linked to my undergraduate university in China—which is on the sanction list—they retrieved the offer last minute, and I was told I am not allowed to work for any German university or Hochschule. Which is kind of against the German law of anti-discrimination. I started the legal process, but it's a dead end. That was purely political, nothing about my competence, but it gave me first-hand awareness of how political risks can affect one's career and, in some cases, companies too. So I understand Huawei's position very well. It is both a Chinese national self-reliance high-tech champion and a company operating under intense Western scrutiny. So we need to take this unique perspective and identify political risks early on, develop strategies to navigate them smartly, so that our roadmaps could be innovative and resilient, and always keep an eye on issues like export controls, GDPR (europe's General Data Protection Regulation ), semiconductor export controls, or EU certification processes.
