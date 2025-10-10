@@ -236,18 +236,95 @@ so as I understand one of the key skills of this job is being able to gather and
 
 From a broader point of view, I think the way wealth is created is changing. It's no longer just about how big a company is—it's about how well you can connect with people and other parts of the world. The ability to build meaningful connections is becoming the most valuable asset, both for individuals and for organizations. When a company becomes a key connector in its industry, its position strengthens and its transaction costs with the market would cut down naturally, this is expression from economic point of view.
 
+从更宏观的角度来看，我认为财富的创造方式正在发生变化。
+它不再仅仅取决于一家公司的规模有多大，而是取决于你能多好地与他人、与世界建立联系。
+如今，无论是对个人还是对企业而言，构建有意义的连接，正在成为最有价值的资产。
+当一家企业能够在其所在行业中成为关键的“连接者”，它的市场地位会自然增强，
+而与外部市场的交易成本也会随之下降——这是从经济学角度来看的一种体现。
+
 Of course, feasibility is not only technical. It's also geopolitical. I've personally experienced political issue recently: Last month, I was offered a position at Hochschule Esslingen at their Regelungstechnik lab, and I was supposed to start from October, but due to Germany's export control policy linked to my undergraduate university in China—which is on the sanction list—they retrieved the offer last minute, and I was told I am not allowed to work for any German university or Hochschule. Which is kind of against the German law of anti-discrimination. I started the legal process, but it's a dead end. That was purely political, nothing about my competence, but it gave me first-hand awareness of how political risks can affect one's career and, in some cases, companies too. So I understand Huawei's position very well. It is both a Chinese national self-reliance high-tech champion and a company operating under intense Western scrutiny. So we need to take this unique perspective and identify political risks early on, develop strategies to navigate them smartly, so that our roadmaps could be innovative and resilient, and always keep an eye on issues like export controls, GDPR (europe's General Data Protection Regulation ), semiconductor export controls, or EU certification processes.
+
+当然，项目的可行性不仅仅取决于技术层面，还包括地缘政治因素。
+我自己最近其实也亲身经历了一次政治因素带来的影响。
+上个月，我原本已经拿到了埃斯林根应用技术大学（Hochschule Esslingen）控制工程实验室的工作邀请，预计十月入职。
+但在最后阶段，由于德国的出口管制政策涉及到我本科就读的中国大学（该校在制裁名单上），学校临时撤回了录用决定，并告知我无法在任何德国高校任职。
+这在某种程度上与德国的反歧视法律相矛盾。
+我尝试通过法律途径解决，但结果并不理想。
+这件事与我的能力无关，纯粹是政治层面的原因。
+不过，这次经历让我切身体会到——政治风险不仅会影响个人职业发展，也会对企业运营带来现实影响。
+
+正因如此，我非常理解华为目前所处的特殊位置：
+既是一家代表中国高科技自主创新的领先企业，同时又在西方环境中承受着高度的外部审视。
+所以我认为，我们需要以这种独特的全球视角，及早识别潜在的政治风险，并制定灵活的应对策略，
+让公司的技术与业务路线既具有创新性，又具备韧性。
+同时，也要时刻关注出口管制、GDPR（欧盟《通用数据保护条例》）、半导体出口限制以及欧盟认证流程等合规议题。
 
 # why huawei, what is huawei advantage 
 So huawei is an innovative and well-established company, every Chinese definitely knows Huawei, and what I know about Huawei is its unique strengths—it's a technology-leading company in lots of aspects, it has massive R&D investment, nearly 21% of revenue in 2024; over 240,000 patents, global leadership in 5G; and an automotive business that grew fourfold last year. The ADS Qiankun system is already deployed in over 22 production models, and the HarmonyOS cockpit combined with 5G-V2X gives Huawei an ecosystem advantage that few others can match. I see Huawei as a true orchestrator in the automotive value chain, not just a Tier 1 supplier. so If I were to take this role at your lab, I would start to actively build strategies to approach potential companies and target particular personnel to build business relationships. From my perspective, Huawei's potentials in Europe-China links promise scouting high-value trends like L3 autonomy, which has immediate roadmap value—imagine scaling that via KIT's LGZ for joint AI-driven EV simulations.
 
+华为是一家创新性极强、同时又非常成熟的企业。
+几乎每一个中国人都知道华为，而我对华为的了解更多在于它独特的技术优势。
+华为在多个领域都处于技术领先地位，研发投入巨大——仅 2024 年研发支出就占到营收的约 21%。
+公司目前拥有超过 24 万项专利，在全球 5G 领域处于绝对领先地位；
+同时，华为的智能汽车业务去年增长了四倍。
+乾坤 ADS 系统已经在 22 款以上的量产车型中落地，
+而鸿蒙座舱与 5G-V2X 的结合，更让华为在智能网联生态中具备了少有的系统性优势。
+在我看来，华为不仅仅是一家 Tier 1 供应商，更是汽车产业价值链中的系统级整合者（orchestrator）。
+
+如果我有机会加入贵实验室的岗位，我会主动制定策略，去接触潜在的企业合作伙伴，
+并有针对性地建立关键业务关系。
+从我的视角看，华为在中欧之间的创新联结潜力巨大，
+尤其在 L3 级自动驾驶等高价值趋势上，具备直接的技术与市场落地意义。
+例如，可以通过与 KIT 的 LGZ 平台合作，利用 AI 驱动的电动车仿真项目，
+共同探索更多具有产业化前景的技术路径。
+
 # AI
 next I will talk a bit about AI, because it is unavoidable big topic, nowadays AI is revolutionizing and transforming every industry—in the near future, every company will be an AI company and producing tokens (this is a quote from Jesan Huang); for car companies, besides manufacturing cars, it will also have to produce tokens that run in those cars. And Huawei is without any doubt frontrunner here. I suppose Huawei has already integrated AI models into some of its internal systems and business processes and so on. so the first thing I would do if I'd work for huawei is to learn about Huawei's AI strategy and try to build something to integrate into Huawei's workflow as a cohesive subsystem. I have already adopted some AI tools in my daily workflow to help information flow run faster, like Agent-Kit from OpenAI or n8n, and generative AI everyday for sure. ~~So basically, first define the task execution sequence or the workflow; next, set up API integration so that the agent or assistant can access relevant data; lastly, implement some sort of open-source orchestration technology. And I have also attended the Udacity program 'AI for Business,' and learned from a company perspective how new AI tools can be developed, deployed, and integrated into various workflows. I can imagine the result in Huawei is probably a fragmented AI ecosystem where tools exist in silos, and abundant user data may reside in on-premise environments, making coordination, interoperability, and governance increasingly complex in different business scenarios.~~
 
+接下来我想谈一点关于人工智能的话题，因为这是一个无法回避的大主题。
+如今，AI 正在重塑并颠覆几乎所有行业。
+正如 Jesan Huang 所说：“未来每一家企业都会是一家 AI 公司，并且都会生产属于自己的 Token。”
+对于汽车企业而言，除了造车，它还需要“生产”在车内运行的智能 Token。
+在这方面，华为无疑是行业的领跑者。
+我相信华为已经在许多内部系统和业务流程中引入了 AI 模型。
+如果我能加入华为，我首先会去深入了解华为的 AI 战略，
+并尝试思考如何在现有工作流程中构建一个可集成的 AI 子系统，使其成为整体协同的一部分。
+我个人已经在日常工作中应用了一些 AI 工具来提升信息流效率，
+比如使用 OpenAI 的 Agent Kit、自动化工具 n8n，以及各类生成式 AI 工具。
+
+
 there are many areas like data processing and information searching, humans are already being outperformed by AI, for instance, AI agents can use function calling to connect with external tools like APIs or data sources like LinkedIn and execute data-collection by itself. But nevertheless, I believe people still have some irreplaceable unique qualities, like empathy and connecting with other people, and creativity and instinct, which I believe is crucial for my role which is 'technology scouting, network building, trend analysis and feasibility reality checks", we still need people to deal with people. So as AI agents are implemented in each step of the workflow, the role I play is 'like a supervisor at work', there is a technical phrase called "AI agent orchestration", someone overseeing how work gets done by AI agents. and I would borrow this analogy to describe our role further, In the same way, when we combine existing technologies and different industries, we end up creating something entirely new. What I mean is, you don't always need to invent something from scratch to be innovative. Sometimes, it's about taking your existing technology and applying them in a new context, and that can open the door to a completely new business or a new industry.
+
+在数据处理、信息搜索等领域，AI 的表现已经在很多方面超越了人类。
+例如，AI 智能体（Agent）可以通过函数调用与外部工具或数据源（如 API 或 LinkedIn）连接，
+自动执行数据采集与分析任务。
+但我仍然坚信，人类依然拥有不可替代的特质——
+比如共情力、人际连接、创造力与直觉判断。
+这些品质在我所应聘的岗位中——“技术前瞻与趋势分析、合作伙伴拓展与可行性评估”——都是至关重要的。
+毕竟，人与人之间的沟通、信任与协作，仍需要“人”来完成。
+
+随着 AI 智能体逐步融入工作流程，我认为自己可以扮演“AI 主管”的角色——
+在技术上，这种概念被称为 AI Agent Orchestration（AI 智能体编排），
+也就是监督、协调 AI 智能体之间的协作，确保工作以正确的方式完成。
+我也会借用这个比喻来形容技术融合：
+当我们把不同领域的技术与行业结合在一起，就能创造出全新的东西。
+换句话说，创新并不总是“从零开始”，
+有时候，只要把已有技术应用到新的场景中，就可能开启一个全新的业务或产业方向。
+
+
 
 So, to sum up, I have a dual perspective, I understand both the German way of doing business and the Chinese way. I have substantial Sino-German project experience and a German network, and also technical expertise in mechatronics and AI skills. and I can totally picturing myself doing tasks in the list of the job description and enjoy them, like scouting high-potential technologies, conducting feasibility checks, building the right partnerships with European companies, building innovative and resilient roadmaps, and I believe I can contribute to connecting Europe's tech ecosystem with Huawei's cutting-edge technology and strengthen Huawei's position in Europe. And I would like to apply my skills and my engineering expertise in a structured and meaningful way and grow together and build future together with you and with Huawei.
 
+最后总结一下，
+我具备双重视角——既理解德国的商业方式，也理解中国的运作逻辑。
+我拥有丰富的中德合作项目经验、在德国的人脉资源，以及机电一体化与人工智能的技术背景。
+我完全能够想象自己在岗位描述中的各项任务中投入并享受工作，
+比如发掘高潜力技术、进行可行性评估、建立与欧洲企业的战略合作、
+以及制定创新而有韧性的技术路线。
+我相信我能够在连接欧洲科技生态与华为尖端技术之间发挥桥梁作用，
+为华为在欧洲的持续发展贡献力量。
+我希望能在这个岗位上，将我的技能与工程背景以更系统、更有意义的方式应用出来，
+与您、与华为一起成长，共同打造未来。
 
 ---
 
