@@ -187,6 +187,8 @@ another thing I do often is gathering information. For example, if I need a list
 另外，如果我想了解一家上市公司的组织架构，我会充分利用像 LinkedIn 这样的平台，把公司现任员工的信息整理出来，再通过他们的职位和职责分析，推断出公司的组织结构。
 如果我对某家公司特别感兴趣，我还会花时间收集和研读所有公开信息，例如财报、产品介绍等，并对其研发能力进行详细的分析与评估。
 
+# KIT and huawei
+
 ~~Building on that,~~ i also did my research, KIT already has some cool ties with Huawei through the AI Talent Training Program at the Institute for Information Management in Engineering—IMI for short—where Huawei donated 100 Ascend kits back in 2020 for hands-on training in deep learning and neural networks, all geared toward Industry 4.0 stuff like AI for robotics. It's this 'Train-the-Trainer' setup, with online sessions since the pandemic, and it fits right into mechatronics work like my thesis on autonomous cranes. And with KIT's new State Graduate Center for AI kicking off this year in Heilbronn—focusing on robotics and cybersecurity—there's even more potential there. For instance, I'd start actionable by reaching out to Prof. Jivka Ovtcharova, the head at IMI (you can find her at jivka.ovtcharova@kit.edu on their site), for instance I could maybe write a quick email proposing a small pilot: Like a workshop using the LGZ (Landesgraduiertenzentrum für angewandte Künstliche Intelligenz) resources to test Huawei's Qiankun ADS on KIT's simulations for ADAS feasibility and technical bottleneck—starting with a 15-minute call, then inviting her to an alumni event in Munich. That way, it's low-key but builds real momentum for scouting.
 
 我也做了一些功课。其实 KIT 和华为之间已经有不错的合作基础。
