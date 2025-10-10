@@ -187,7 +187,7 @@ another thing I do often is gathering information. For example, if I need a list
 另外，如果我想了解一家上市公司的组织架构，我会充分利用像 LinkedIn 这样的平台，把公司现任员工的信息整理出来，再通过他们的职位和职责分析，推断出公司的组织结构。
 如果我对某家公司特别感兴趣，我还会花时间收集和研读所有公开信息，例如财报、产品介绍等，并对其研发能力进行详细的分析与评估。
 
-~~Building on that,~~ i also did my research, KIT already has some cool ties with Huawei through the AI Talent Training Program at the Institute for Information Management in Engineering—IMI for short—where Huawei donated 100 Ascend kits back in 2020 for hands-on training in deep learning and neural networks, all geared toward Industry 4.0 stuff like AI for robotics. It's this 'Train-the-Trainer' setup, with online sessions since the pandemic, and it fits right into mechatronics work like my thesis on autonomous cranes. And with KIT's new State Graduate Center for AI kicking off this year in Heilbronn—focusing on robotics and cybersecurity—there's even more potential there. For instance, I'd start actionable by reaching out to Prof. Jivka Ovtcharova, the head at IMI (you can find her at jivka.ovtcharova@kit.edu on their site), for instance I could maybe write a quick email proposing a small pilot: Like a workshop using the LGZ (Landesgraduiertenzentrum für angewandte Künstliche Intelligenz) resources to test Huawei's Qiankun ADS on KIT's simulations for ADAS feasibility—starting with a 15-minute call, then inviting her to an alumni event in Munich. That way, it's low-key but builds real momentum for scouting.
+~~Building on that,~~ i also did my research, KIT already has some cool ties with Huawei through the AI Talent Training Program at the Institute for Information Management in Engineering—IMI for short—where Huawei donated 100 Ascend kits back in 2020 for hands-on training in deep learning and neural networks, all geared toward Industry 4.0 stuff like AI for robotics. It's this 'Train-the-Trainer' setup, with online sessions since the pandemic, and it fits right into mechatronics work like my thesis on autonomous cranes. And with KIT's new State Graduate Center for AI kicking off this year in Heilbronn—focusing on robotics and cybersecurity—there's even more potential there. For instance, I'd start actionable by reaching out to Prof. Jivka Ovtcharova, the head at IMI (you can find her at jivka.ovtcharova@kit.edu on their site), for instance I could maybe write a quick email proposing a small pilot: Like a workshop using the LGZ (Landesgraduiertenzentrum für angewandte Künstliche Intelligenz) resources to test Huawei's Qiankun ADS on KIT's simulations for ADAS feasibility and technical bottleneck—starting with a 15-minute call, then inviting her to an alumni event in Munich. That way, it's low-key but builds real momentum for scouting.
 
 我也做了一些功课。其实 KIT 和华为之间已经有不错的合作基础。
 比如在信息管理与工程研究所（IMI），他们通过人工智能人才培养项目（AI Talent Training Program）开展了合作。早在 2020 年，华为就向该项目捐赠了 100 套 Ascend 开发套件，用于深度学习和神经网络的实操培训，这些内容都和工业 4.0 相关，比如面向机器人应用的人工智能。
@@ -195,7 +195,7 @@ another thing I do often is gathering information. For example, if I need a list
 
 此外，KIT 今年在海尔布隆新成立了州级人工智能研究生中心（State Graduate Center for AI），重点方向包括机器人和网络安全，这也带来了更多的合作潜力。
 如果是我来推动，我会先从一些可执行的小动作入手，比如联系 IMI 的负责人 Jivka Ovtcharova 教授（她的邮箱在官网上可以找到：jivka.ovtcharova@kit.edu），
-我可以先发一封简短的邮件，提议做一个小型的试点，比如利用 LGZ（应用人工智能州级研究生中心）的资源，在 KIT 的自动驾驶仿真环境里测试华为的乾坤 ADS 系统的可行性。
+我可以先发一封简短的邮件，提议做一个小型的试点，比如利用 LGZ（应用人工智能州级研究生中心）的资源，在 KIT 的自动驾驶仿真环境里测试华为的乾坤 ADS 系统的可行性和技术瓶颈。
 从一次 15 分钟的初步沟通开始，再邀请她参加在慕尼黑的校友活动。
 这种方式比较低调务实，但能够真正为后续的技术合作和资源对接积累势能。
 
