@@ -1,5 +1,10 @@
 我卡鲁的时候有上过一门课自控驾驶技术，硕士毕业论文是起重机的自主决策系统建模，当时导师给我两个选择，要么用有限状态机，要么用决策树，最后我用了matlab的stateflow建模，使用的是ros平台，就是机器人开发经常用的那个开发平台，我记得路径规划用的A star，当时是比较新的算法，现在可能有更先进的算法了。
 
+
+我不是不能成为技术专家，只是对我来说有更具性价比的发展路径，比如多文化融合，对行业、技术、市场、政治的深度理解，这个世界上不缺厉害的工程师和技术人才，但是缺什么都懂一点、实践经验丰富、能把技术和行业各色信息融会贯通、游刃有余运用自如的人。
+
+
+---
 ### Basics of Autonomous Driving Technology: Must-Know Knowledge
 
 Welcome to the world of autonomous driving (AD)! If you're just starting out, think of it as teaching a car to "see," "think," and "act" like a human driver—but safer and more efficient. Autonomous vehicles (AVs) use a combination of hardware, software, and AI to navigate roads without constant human input. This tech promises to reduce accidents (human error causes ~94% of them), ease traffic, and enable new mobility services like robotaxis.
